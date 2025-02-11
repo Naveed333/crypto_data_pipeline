@@ -1,5 +1,5 @@
-import requests # type: ignore
-import pandas as pd # type: ignore
+import requests  # type: ignore
+import pandas as pd  # type: ignore
 
 API_URL = "https://api.coingecko.com/api/v3/coins/markets"
 params = {
