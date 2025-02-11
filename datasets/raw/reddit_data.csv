@@ -1,102 +1,1033 @@
-Title,Upvotes,Comments,Timestamp
-"[AMA] Giveaway with Portal to Bitcoin: Making bridges, wrapped coins, and external custody obsolete - Feb 12",16,23,1739280398.0
-Moon Week 58,9,73,1738777261.0
-More Than 800K Have Lost $2B on Trump’s Meme Coin,1242,257,1739277784.0
-"Trump and His Family Earned Millions From Trump Coin While 810,000 Others Lost Money: Report",7252,632,1739232295.0
+Title,Post Text,Author,Date,Upvotes,Subreddit
+"[AMA] Giveaway with Portal to Bitcoin: Making bridges, wrapped coins, and external custody obsolete - Feb 12","Hey r/cryptocurrency!
+
+We’re Portal to Bitcoin, the first fully custodyless, cross-chain infrastructure built for Bitcoin. Using our BitScaler architecture, we enable native-to-native asset transfers across blockchains without the security risks of bridges, wrapped assets or centralized custody.
+
+What We’re Solving:
+
+1. Truly decentralized cross-chain transactions with no wrapped assets, vaults or multi-sig risks
+2. Fast, low-cost swaps secured by Bitcoin, the most capital-rich blockchain & what we believe to be the fundamental monetary layer
+3. Seamless DeFi access with a UX rivaling CEXs and fully self-custodied
+4. Sustainable liquidity incentives through a first-of-its-kind Bitcoin AMM
+5. Barriers to Americans from participating in incentivization campaigns.
+
+Who’s Here?
+
+Our team at Portal to Bitcoin has been building on Bitcoin for a long time and is backed by Arrington Capital, Coinbase Ventures, [Gate.io](http://Gate.io) and OKX Ventures.
+
+https://preview.redd.it/ezn7x0m8hiie1.png?width=9500&format=png&auto=webp&s=dd537e4ee6e8bda0c4ea98e94df06b059a44370c
+
+We’re here to discuss:
+
+* How Portal connects native Bitcoin to DeFi
+* The risks of bridges and how we solve them
+* The future of cross-chain finance
+* Your questions. Ask us anything!
+
+When and Where?
+
+* Wednesday, February 12, 2025
+* Time: All day!
+* Subreddit: Right here at r/cryptocurrency
+
+Now for the fun part! We’re giving the r/CryptoCurrency community a chance to win a share of $500 in **USDT**! The top 5 most interesting questions about Portal to Bitcoin in the comments below will each win a prize! Here’s how:
+
+To qualify, make sure you
+
+1. Drop your best question about Portal to Bitcoin in the comments.
+2. Follow [https://x.com/portaltobitcoin](https://x.com/portaltobitcoin) on Twitter.
+3. Join our subreddit r/portaltobitcoin
+
+Winners will be selected and contacted via DM here on Reddit.
+
+We believe Bitcoin should be the foundation of DeFi and Portal is making that possible. Whether you’re a trader, LP, dev or just crypto-curious, drop your questions below and let’s talk.
+
+Would you like to earn more? Come visit: [https://quests.portaltobitcoin.com](https://quests.portaltobitcoin.com) and join our incentivized public testnet for a chance to earn LiteNodes, each sharing in a generous 5% of our total network emissions. Even Americans are eligible!
+
+See you all on February 12th!",PortalDeFi_Terry,1739280398.0,19,CryptoCurrency
+Moon Week 58,"Welcome to Moon Week for round 58 of Moons! For more information about Moons, please [see our wiki page here](https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki). 
+
+We are using Snapshot for voting directly with the Moon balance in your wallet, in a transparent and open manner. For now all Moons held in self-hosted wallets at the time of poll creation will be eligible to vote, so if you are holding Moons on an exchange, the telegram TipBot or in a wallet that you are not comfortable connecting to snapshot then please be sure to transfer your Moons to a self-hosted wallet that you are comfortable connecting to snapshot before each Moon Week. 
+
+To give exposure to our governance polls for the month, this Moon Week post will remain pinned to the top of the subreddit until next Monday. You can [see our schedule here](https://calendar.google.com/calendar/embed?src=i0e5as6q033nruqck5c9nfk24k%40group.calendar.google.com).**Please review the following important information first:**
+
+* Successful polls are implemented whenever the responsible party has a chance to do it. Usually this is within days or weeks of the poll passing, but depends on workload, priorities, and complexity of implementation. You can look at implementation status on [the CCIP list.](https://docs.google.com/spreadsheets/d/1LhhqB4UAezNMdAwjV3evFXPD2x1JFCFHdnm8rmyRqAE/edit?usp=sharing)
+* In the event of incompatible polls passing, the poll with more Moons voting in favor will be considered the winner and the other will not be implemented.
+
+# Governance Polls
+
+Here's your poll(s) for this round of Moons:
+
+* [CCIP-108 - Community Picks](https://snapshot.box/#/s:cryptomods.eth/proposal/0x388e7c395821dc01721a83d473c49bb048e88fe4f387c4d592c3de88b0318b76) - [(Discussion Link)](https://www.reddit.com/r/CryptoCurrency/comments/1ihyra3/ccip108_community_picks/)
+* [CCIP-109 - Modify Banner Pricing with Discount](https://snapshot.box/#/s:cryptomods.eth/proposal/0x5b7593e4086834e2134c1be61a5ee872aa5c3a39a346d66cc16d7e992602c2b1) - [(Discussion Link)](https://www.reddit.com/r/CryptoCurrency/comments/1ihyrom/ccip109_modify_banner_pricing_with_discount/)
+
+\* Note the pinned comment in each discussion, Snapshot paywalled Nova vote weight so I will manually add it back in at the end of the polls and announce the results. You can still vote as normal.
+
+You can view [the full CCIP list here](https://docs.google.com/spreadsheets/d/1LhhqB4UAezNMdAwjV3evFXPD2x1JFCFHdnm8rmyRqAE/edit?usp=sharing).
+
+# Previous Polls and results
+
+* **Passed** - [CCIP-107 - Reinstate a Karma Cap](https://snapshot.box/#/s:cryptomods.eth/proposal/0x9d67ec936d70e6d471dc1ca6c4413d2a174dd530f430d79e3e2ff6e526962a0b) - [(Discussion Link)](https://www.reddit.com/r/CryptoCurrency/comments/1hvcfop/ccip107_reinstate_a_karma_cap/)
+
+----------
+
+#Distributions
+
+
+Please review [this snapshot report](https://1drv.ms/x/s!Appd7hw5P7Xck-dM-uFrGTh6lb5XLA?e=OfIIkl) to determine your expected MOON earnings from the past 30 days.
+
+Receipts for your comment and post earnings can be found on the report tab named ""snapshot"". 
+
+If you believe you have identified any distribution errors, please send a message to mod mail for our team to review
+
+To find your balance, please go [here](https://www.reddit.com/message/compose/?to=CommunityCurrencyBot&subject=Balance%20Inquiry&message=Please%20show%20my%20Community%20Currency%20balances).
+For the latest guide on every other bot command, click [here](https://www.reddit.com/r/communitycurrency/comments/1fk3yid/command_master_thread/?share_id=N1w1HQuTfqgVSqgiPMXEx&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)",MoonWeek,1738777261.0,9,CryptoCurrency
 "Ethereum’s price crash reveals signs of Market Manipulation 
-, calculated liquidation event, exploiting market leverage and triggering massive sell-offs.",166,60,1739290696.0
-Lummis apparently called XRP a scam in a call tonight,416,242,1739265283.0
-27 U.S. states push for Bitcoin and Digital Asset legislation,127,15,1739280879.0
-Younger generations turn to crypto for retirement savings,150,50,1739274655.0
-"224,410 ETH Exit Exchanges in Biggest Ethereum Outflow in 2 Years",72,10,1739276627.0
-Profit is profit! *Cries*,4204,187,1739194473.0
-Walmart Partners Cardano (ADA) Cryptocurrency Officially,842,78,1739222977.0
-Fed chair Powell says he is committed to ending crypto debanking and pausing rate cuts,16,12,1739295194.0
-"Another Solo Miner Has Mined An Entire BITCOIN BLOCK WORTH $300,000",895,76,1739216270.0
-"HODLing So Hard, Even the Chair Got Liquidated",543,43,1739224219.0
-The memecoin trenches,24,7,1739286068.0
-It's just numbers on a screen,306,7,1739234260.0
-Litecoin ETF has 90% chance to get SEC approval in 2025: Analysts,37,6,1739270981.0
-North Carolina Approves 10% Bitcoin Investment Bill,14,2,1739288174.0
-"Grayscale Files For Cardano ETF, Its First Standalone ADA Product",214,30,1739230773.0
-"Nasdaq Files to List XRP ETF, Stating XRP Is Hard to Manipulate",47,48,1739261147.0
-Kanye West's Super Bowl 2025 ad sparks Nazi-themed crypto frenzy,602,199,1739200574.0
-What's up with these tap to earn tokens ?,3,12,1739291660.0
-Coinbase CEO Brian Armstrong Says Bitcoin Adoption To Reach 'Billions' By 2030,195,58,1739215429.0
-Ethereum faces unprecedented short positioning as short interest spikes 500% since November 2024,373,69,1739201984.0
-"Tesla Still Holds 11,509 BTC - No Change in Bitcoin Position Despite Reports",148,49,1739214224.0
-"Bitcoin’s Diamond Hands Double Down, Targets All-Time High",5,6,1739284408.0
-"Michael Saylor's Strategy acquires 7,633 Bitcoin after one-week break, holdings now worth $46B",235,75,1739200739.0
-Just give it a minute,3275,119,1739141744.0
-The Danger of Destructive Capitalism and How Deflationary Cryptocurrencies Can Protect Us from Systematic Corruption,1,0,1739298746.0
-"Tether transfer from abroad, taxes?",0,1,1739298155.0
-Tesla made $600 million in Bitcoin profits during Q4 of 2024,3,12,1739282484.0
-"Daily Crypto Discussion - February 11, 2025 (GMT+0)",25,734,1739232048.0
-Lost Fortune: Landfill Containing $750M in Bitcoin to Be Sealed Forever,1497,170,1739152029.0
-Bitcoin holds $95K support despite heavy selling pressure,201,44,1739187988.0
-Binance Proof of Reserves Report Suggests Significant Sale of Excess Crypto Holdings,67,20,1739208075.0
-crypto taxes for a beginner,0,5,1739284966.0
-Ethereum fees dip below $1M for the first since September 2024,91,58,1739193536.0
-Odds of Kanye West Launching Token Plummet After He Says ‘Coins Prey on Fans’,363,64,1739165595.0
-The USDC Stablecoin Reached a New ATH in Market Cap Driven by Adaptation on Solana,0,1,1739293231.0
-Nobel Economist Labels Bitcoin “A Financial Black Hole”,20,39,1739221189.0
-Hacker in SEC X account breach faces $50k fine in plea deal,32,9,1739211185.0
-About XRP,0,16,1739277543.0
-"Revolutionizing Uranium Trading: On-Chain, Fractional Ownership, and 24/7 Access",0,1,1739287848.0
-Why you should not ever use Bitcoin ATMS,0,5,1739293149.0
-Japan's Financial Services Agency Plans To Lift Ban On Cryptocurrency ETFs,97,12,1739181822.0
-Coinbase Withdrawal Hold,6,13,1739239531.0
-"Your thoughts on the ""stable"" coin USDN",17,54,1739215190.0
-CFTC Intensifies Crypto Fraud Crackdown: Major Legal Actions and Public Awareness Campaign Launched - Crypto-News.net,11,1,1739223696.0
-Armed police arrest three Britons over alleged kidnap of crypto broker,15,7,1739214455.0
-Bitcoin teases gains as traders say $100K now key support reclaim,1,5,1739267134.0
-Ethereum Outpaces Bitcoin as Digital Asset Fund Inflows Hit $1.3 Billion,1,2,1739264680.0
-BBC journalist Nick Robinson’s social media ‘hacked to promote cryptocurrency’,0,4,1739262928.0
-CZ Says Binance's Token Listing Process is 'Broken',0,6,1739275164.0
-Kanye West was offered 2 million USD to fake a rug pull / fake getting hacked.,0,7,1739298100.0
-Bitcoin Climbs Above $97K as Trade Volume Surges – Markets and Prices Bitcoin News,3,3,1739237482.0
-"My first step into tokenized uranium—so far, so good!",0,8,1739294140.0
-"Elon Musk’s New Avatar “Harry Bolz” memecoin pumps 17,000% in 30 mins",0,28,1739288273.0
-Can anyone help me figure out what coins these are that I bought about 8 years ago?,0,5,1739286077.0
-What is behind the ‘Harry Bōlz’ madness? Elon Musk’s name change on X sparks crypto frenzy,0,34,1739279055.0
-"Dave Portnoy promotes meme coin Jailstool, token surges 100,000% overnight",767,223,1739117482.0
-"Cboe BZX submits filings for XRP ETFs from Bitwise, WisdomTree, Canary, and 21Shares.",2,16,1739225061.0
-Is the crypto bull market over? Retail sentiment is ‘worst it’s been in years’,439,289,1739126265.0
-"The crazy world of crypto, It's only getting worse",0,8,1739273207.0
-Bitcoin Ad at Super Bowl Half Time,216,83,1739130414.0
-Crypto exchanges with Pies,1,1,1739234726.0
-Elon Musk’s DOGE Pushes for Blockchain Transparency in U.S. Government Spending,364,137,1739118057.0
-Poland’s Central Bank rules out Bitcoin for reserves,157,46,1739132729.0
-Arthur Hayes on Ether: ‘Vitalik cares about the price… he’ll do something about it’,0,7,1739260102.0
-Bitcoin hashrate hits a new ATH,348,184,1739113144.0
-Can customers actually do XRP-based money transfers through conventional banks?,64,67,1739149925.0
-"Don’t look now, but the US Federal Reserve is slowly turning pro-crypto",0,1,1739257729.0
-"Memecoin Madness Returns as Barstool Sports, BNB Chain, and an Entire African Country Dabble With Meme Tokens",11,9,1739177168.0
-"Removing FDIC? ""In trustless, we Bitcoin""",3,27,1739203758.0
-"Okay it’s Tuesday, lets have your ‘make me rich’ in 10 years crypto tickers….",0,88,1739260219.0
-Crypto investment products see $1.3 billion in weekly inflows despite Trump tariff woes: CoinShares,4,2,1739192634.0
-Telcoin - not enough attention,0,20,1739242656.0
-"Economist Henrik Zeberg Says No Indications That Crypto Bull Market Top Is In, Predicts ‘Fantastic’ Altcoin Season",51,48,1739136222.0
-Current Market Analysis 10/02/2025: Smart Money Keeps Accumulating,3,1,1739213314.0
-Calling All Developers & Artists: Join the r/Bucketheads Community Contests! 🎨💻,1,0,1739211686.0
-Klarna to Accept Crypto Payments as It Targets $15 Billion IPO Valuation,117,9,1739118292.0
-Polygon & the Super Bowl: From Reddit Avatars to Polymarket’s $14M Bet,8,5,1739170587.0
-"Kanye West, after disclosing he was offered $2 million to launch a token, asks to speak with Coinbase CEO 'concerning crypto'",590,90,1739083429.0
-"Daily Crypto Discussion - February 10, 2025 (GMT+0)",22,889,1739145675.0
-Is B3 (Base) the next big gaming token? DYOR & drop your thoughts!,0,10,1739248033.0
-Why Everything Positive You've Heard About Crypto Is a Trick,0,27,1739270294.0
-Ethereum Raises Gas Limit for First Time Since Proof-of-Stake to Scale Transaction Capacity,69,13,1739118147.0
-The University of Austin Announces $5 Million Bitcoin Endowment,63,10,1739119951.0
-Early Crypto Traders Had Speedy Profit on Trump Coin as Others Suffered Losses (Gift Article),44,56,1739123772.0
-Russian Authorities Block Access to Country’s Largest Crypto Aggregator Platform,0,7,1739199063.0
-I regret not buying Solana in 2020,0,43,1739254291.0
-Austin University to launch $5M Bitcoin fund with 5-year HODL strategy: Report,97,11,1739107120.0
-Nigeria Embraces Blockchain: SEC Director General Sees Huge Potential for Capital Market Regulation,27,6,1739132118.0
-"Data: El Salvador's Bitcoin holdings reached 6,072.18 coins, with an increase of 17 coins in the past 7 days - ChainCatcher",54,7,1739118085.0
-This is an entertaining read. Ignorance hiding behind rhetoric all the way down the comments,0,21,1739207672.0
-Is the Central African Republic (CAR) Memecoin a Scam?,0,12,1739224342.0
-"Tether CEO ""All people alive ... will move to new QUANTUM-RESISTANT addresses”",38,117,1739119777.0
-Privacy-focused layer 2s will transform Ethereum's enterprise future,17,21,1739132946.0
-The Eternal Altseason is Always One Dip Away.,1653,193,1739043480.0
-I have a question about microstrategy and executive order 6102,0,21,1739184912.0
-I made an Open source tool to help you backtest your trading or investment strategy,38,6,1739108261.0
+, calculated liquidation event, exploiting market leverage and triggering massive sell-offs.",,CriticalCobraz,1739290696.0,201,CryptoCurrency
+27 U.S. states push for Bitcoin and Digital Asset legislation,,Next_Statement6145,1739280879.0,135,CryptoCurrency
+Younger generations turn to crypto for retirement savings,,InclineDumbbellPress,1739274655.0,166,CryptoCurrency
+"224,410 ETH Exit Exchanges in Biggest Ethereum Outflow in 2 Years",,Afonsoo99,1739276627.0,81,CryptoCurrency
+Fed chair Powell says he is committed to ending crypto debanking and pausing rate cuts,,KIG45,1739295194.0,28,CryptoCurrency
+Walmart Partners Cardano (ADA) Cryptocurrency Officially,,Amazonreviewscool67,1739222977.0,853,CryptoCurrency
+"Another Solo Miner Has Mined An Entire BITCOIN BLOCK WORTH $300,000",[source](https://x.com/pete_rizzo_/status/1888994410320338948?t=3cIAu5tDEMjabKraloM3HA&s=19),WineMakerBg,1739216270.0,907,CryptoCurrency
+North Carolina Approves 10% Bitcoin Investment Bill,,Brodie266,1739288174.0,19,CryptoCurrency
+Man ‘Extremely Serious’ About Buying Landfill Where His $774 Million Bitcoin Is Lost,,Odd-Radio-8500,1739300007.0,9,CryptoCurrency
+"Nasdaq Files to List XRP ETF, Stating XRP Is Hard to Manipulate","Article in summary:
+Nasdaq has officially filed with the SEC to list the Coinshares XRP ETF, arguing that XRP’s decentralized structure and deep liquidity make it difficult to manipulate. The ETF will function as a Delaware Statutory Trust, holding only XRP and cash, allowing investors to gain exposure to XRP without direct ownership.
+
+Key points from the filing:
+
+•	⁠The ETF’s value will track the Compass Crypto Reference Index XRP (4 PM NY time).
+•	⁠XRP will be securely stored by a third-party custodian to ensure safety.
+•	⁠Nasdaq argues that XRP is less prone to manipulation than other digital assets previously approved for ETFs, such as Bitcoin and Ethereum.
+•	⁠The SEC is now reviewing the proposal and seeking public comments before making a decision.
+
+This move could significantly impact XRP’s market adoption, providing regulated institutional access to the asset and potentially increasing trading volumes. If approved, this ETF could mark a major milestone in XRP’s journey toward mainstream financial integration.
+
+Always read the full article for a better understanding. Different perspectives can give you a clearer view.",Extra_Ad8616,1739261147.0,44,CryptoCurrency
+Man who lost $760million Bitcoin fortune might buy dump so he can search for hard drive,,eos4,1739300135.0,5,CryptoCurrency
+Kanye West's Super Bowl 2025 ad sparks Nazi-themed crypto frenzy,,goldyluckinblokchain,1739200574.0,600,CryptoCurrency
+What's up with these tap to earn tokens ?,"
+Lately, I keep seeing these ""tap to earn"" apps everywhere basically, you tap the screen, watch ads, or do random tasks to earn some kind of crypto or in-game token. At first, it seems like an easy way to stack up some extra cash, but after messing around with a few, I’m starting to think it’s mostly a waste of time. But at the other end we can even make money lol if good luck. 
+I’ve noticed The payouts are tiny. You’d have to grind for weeks just to make a few bucks.
+Withdrawal limits are insane. A lot of these apps won’t let you cash out until you hit some ridiculous threshold that most people will never reach.
+Way too many ads. Half the time, you’re just watching endless ads for the chance to earn a few cents.
+Some of them seem sketchy. A few apps never actually pay out, or they disappear after hyping up their tokens.
+I feel like these apps are just farming user engagement and ad revenue while making it seem like you're earning something. Has anyone actually made decent money from one of these, or are they all just a trap? Curious to hear real experiences. Recently came accross tapswap. Before it was ton and midas yield which i tried . But kinda confused because So many are still coming in market. 
+
+
+",Stunning-Ask3032,1739291660.0,4,CryptoCurrency
+Coinbase CEO Brian Armstrong Says Bitcoin Adoption To Reach 'Billions' By 2030,,KIG45,1739215429.0,200,CryptoCurrency
+Ethereum faces unprecedented short positioning as short interest spikes 500% since November 2024,,Afonsoo99,1739201984.0,373,CryptoCurrency
+"Bitcoin’s Diamond Hands Double Down, Targets All-Time High",,Illperformance6969,1739284408.0,6,CryptoCurrency
+"Tesla Still Holds 11,509 BTC - No Change in Bitcoin Position Despite Reports",,kirtash93,1739214224.0,149,CryptoCurrency
+"Michael Saylor's Strategy acquires 7,633 Bitcoin after one-week break, holdings now worth $46B",,KIG45,1739200739.0,233,CryptoCurrency
+Best cryptos for long holds? Looking to buy and hold until 2035,"Which cryptos do you think have the highest LONG TERM upside? I don't get into the day to the day. I buy and hold and am often in the camp of I either make a lot or lose it all in that span. I never spend more than I'm willing to lose but I'm looking for long term holds with most upside potential to set me up for retirement.
+
+With that being said, I know no one truly knows and it's all technically a gamble, but I'd like to load up a bit before my tax returns and pray they go big in the next 10-15 years max.
+
+So... who you got?",jim182182,1739300008.0,1,CryptoCurrency
+🇯🇵 Japanese gaming company Gumi announces purchase of 1 billion yen (about 6.6 million US dollars) in Bitcoin to enhance Crypto strategy,,CriticalCobraz,1739299199.0,1,CryptoCurrency
+The Danger of Destructive Capitalism and How Deflationary Cryptocurrencies Can Protect Us from Systematic Corruption,,claunecks,1739298746.0,0,CryptoCurrency
+"Tether transfer from abroad, taxes?","Hi there, noob in crypto here. Sorry if my English is bad sometimes. 
+
+Tl;dr in advance: What’s the taxation on receiving about $1800 worth of tether on average monthly, from my brother in Turkey to me in the US? 
+
+Here’s my situation and I’m trying to understand what sort of taxation I might have to deal with. 
+
+I have assets abroad (in Turkey specifically) but I reside in the US (non-citizen, legal resident) and I want to transfer my monthly passive income that I have back there to here. It’s not much, about $1600 to $1900 each month. Using the regular bank to bank transfers I end up using about $1200 or more in a year due to horrible exchange rates and the fees. So my brother who’s a crypto enthusiast suggested that I use this method: 
+
+I send him my Turkish Lira each month, he buys tether and transfers it to me in the US, and I transfer that into my regular bank account. So  basically a transfer from my Turkish bank account to my US bank account through a longer but supposedly cheaper way. That part seems to be accurate, but I’m wondering what my obligations are in terms of taxes. As far as chatgpt tells me, since it’s a transfer within family it can be considered a “gift”, and if it doesn’t exceed the $18,000 annual gift tax exclusion, it’ll be fine. But it does exceed the $18,000 limit. So will I be taxed on the amount after that limit, or does the whole total of transfer then gets deemed not a gift and get taxed? Also other than that, is there anything else that I need to consider?
+
+Many thanks in advance to all who try to help. Happy gaining to you. ",sultanamana,1739298155.0,0,CryptoCurrency
+"Daily Crypto Discussion - February 11, 2025 (GMT+0)","**Welcome to the Daily Crypto Discussion thread. Please read the disclaimer and rules before participating.**
+ 
+***
+&nbsp;
+    
+###Disclaimer:
+
+Consider all information posted here with several liberal heaps of salt, and always cross check any information you may read on this thread with known sources. Any trade information posted in this open thread may be highly misleading, and could be an attempt to manipulate new readers by known ""pump and dump (PnD) groups"" for their own profit. BEWARE of such practices and exercise utmost caution before acting on any trade tip mentioned here. 
+
+
+**Please be careful about what information you share and the actions you take.** Do not share the amounts of your portfolios (why not just share percentage?). Do not share your private keys or wallet seed. Use strong, non-SMS 2FA if possible. Beware of scammers and be smart. Do not invest more than you can afford to lose, and do not fall for pyramid schemes, promises of unrealistic returns (get-rich-quick schemes), and other common scams.
+    
+***
+&nbsp;
+    
+###Rules:
+
+  - All [sub rules](https://www.reddit.com/r/CryptoCurrency/about/rules/) apply in this thread. The prior exemption for karma and age requirements is no longer in effect. 
+  - Discussion topics must be related to cryptocurrency.
+  - Behave with civility and politeness. Do not use offensive, racist or homophobic language.
+  - Comments will be sorted by newest first.
+  
+***
+&nbsp;
+
+###Useful Links:
+
+  - [**Beginner Resources**](https://www.reddit.com/r/CryptoCurrency/wiki/beginner_resources)
+
+  - [**Intro to r/Cryptocurrency MOONs 🌔**](https://www.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/)
+
+  - [**MOONs Wiki Page**](https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki/)
+
+  - [**r/CryptoCurrency Discord**](https://www.reddit.com/r/CryptoCurrency/comments/kth255/join_the_crypto_currency_discord/)
+
+  - [**r/CryptoCurrencyMemes**](https://www.reddit.com/r/cryptocurrencymemes)
+
+  - [**Prior Daily Discussions**](https://www.reddit.com/r/CryptoCurrency/search?q=title%3A%22Daily+Crypto+Discussion+-+%22+&restrict_sr=on&sort=new&t=all) - (Link fixed.)
+
+  - [**r/CryptoCurrencyMeta**](https://www.reddit.com/r/CryptoCurrencyMeta/) - Join in on all meta discussions regarding r/CryptoCurrency whether it be moon distributions or governance.
+
+***
+&nbsp;
+
+### Finding Other Discussion Threads
+
+Follow a mod account below to be notified in your home feed when the latest r/CC discussion thread of your interest is posted.
+
+* u/CryptoDaily- — Posts the Daily Crypto Discussion threads. 
+
+* u/CryptoSkeptics — Posts the Monthly Skeptics Discussion threads.
+ 
+* u/CryptoOptimists- — Posts the Monthly Optimists Discussion threads.
+
+* u/CryptoNewsUpdates — Posts the Monthly News Summary threads.",CryptoDaily-,1739232048.0,25,CryptoCurrency
+Lost Fortune: Landfill Containing $750M in Bitcoin to Be Sealed Forever,,Every_Hunt_160,1739152029.0,1500,CryptoCurrency
+Bitcoin holds $95K support despite heavy selling pressure,,kirtash93,1739187988.0,198,CryptoCurrency
+Binance Proof of Reserves Report Suggests Significant Sale of Excess Crypto Holdings,,arztf,1739208075.0,63,CryptoCurrency
+Would this cryptocurrency idea work?,"TL;DR: Cryptocurrency with a built-in private messaging app. Messages cost one coin, and the coin is designed to be cheap due to high supply. Mining secures the network.
+
+
+So I was thinking of this cryptocurrency idea but I'm not sure if it will work since no one seems to have tried to make it.
+
+
+Basically, a cryptocurrency with an app that people could buy and sell the coin. Within the app, users have the ability to send messages to other users or wallet addresses using one coin as a fee per message. 
+
+
+The messaging future will be decentralized and private, which is the core utility of cryptocurrency.
+
+
+The coin will have a relatively high supply to make the coin price low so the fee per message can be manageable.
+
+
+The coin can be bought original mined; the miners will receive coins from mining and a bit more from mining fees.
+
+
+The electricity used from the miners will keep the network up.",adison822,1739299113.0,0,CryptoCurrency
+crypto taxes for a beginner,"Hi everyone, I have some questions for the more experienced:
+
+1) I got two AirDrops, about 1k each, sold on the same day, on one I lost $50 and on the other I made $100 profit, how should I report them?
+
+2) I invested example: 5k in Solana, now I have a total value of 15k in sol… I decide to sell 2k do I have to declare it anyway, even if it is less than what I invested and it is not a capital gain?
+
+3) I have been DCA BTC for the past 3 years, small transactions of $100 a week, sold everything! 
+but one of the exchanges I bought from no longer shows me how many BTC I bought and at what price…
+
+I can declare like this: I invested 10,000, I sell for 15,000…15,000-1000=5,000 profit and I pay taxes!  Or do I always have to report the details of each individual transaction, the dates, etc.?
+
+US base!
+
+Thanks to whoever can help me!",ErBerto96,1739284966.0,0,CryptoCurrency
+Tesla made $600 million in Bitcoin profits during Q4 of 2024,,KIG45,1739282484.0,1,CryptoCurrency
+Ethereum fees dip below $1M for the first since September 2024,,BigRon1977,1739193536.0,94,CryptoCurrency
+Odds of Kanye West Launching Token Plummet After He Says ‘Coins Prey on Fans’,,hiorea,1739165595.0,364,CryptoCurrency
+The USDC Stablecoin Reached a New ATH in Market Cap Driven by Adaptation on Solana,,renkure,1739293231.0,0,CryptoCurrency
+Nobel Economist Labels Bitcoin “A Financial Black Hole”,""" Eugene F. Fama, a Nobel Prize-winning economist, sees zero value in Bitcoin, calling it nothing but an empty vacuum.
+
+Appearing on the Capitalis’t podcast, Eugene Fama delivered his verdict: Bitcoin is doomed. While the crypto world has heard plenty of these eulogies before, Bitcoin continues to defy the odds.
+
+Fama ridiculed the idea of a blockchain-based financial system, likening it to boiling soup over a fire made from plastic bottles—expensive, inefficient, and environmentally reckless. He sees Bitcoin as a wild card in monetary theory, unpredictable and undeserving of attention. And the idea that it’s “digital gold”? He’s not buying it. 
+
+“Cryptocurrencies are such a puzzle because they violate all the rules of a medium of exchange,” Fama said. “They don't have a stable real value. They have highly variable real value. That kind of a medium of exchange is not supposed to survive,” he concluded.""
+
+*Is E. Fama right about Bitcoin being worthless, or is he way off? What do you think guys?*
+
+# [The source](https://coinomist.com/news/nobel-economist-labels-bitcoin-a-financial-black-hole/)",Crypto_1222,1739221189.0,17,CryptoCurrency
+Japan's Financial Services Agency Plans To Lift Ban On Cryptocurrency ETFs,,Odd-Radio-8500,1739181822.0,97,CryptoCurrency
+Coinbase Withdrawal Hold,"I recently recieved an email from what appears to be coinbase but I haven't tried to make any withdrawals. 
+
+I did recently get a new phone and wasn't sure if it could be related to that. I haven't noticed any usually activity but it is the second time that I am receiving this. 
+
+Sorry if this is silly or best directed somewhere else. I just want to make sure nothing is comprised or needing me to do something. 
+
+I did change my password and do use 2FA. 
+
+Any advice is appreciated and I thank anyone in advance!
+
+https://imgur.com/a/PlC7lGA",theJGrimm,1739239531.0,6,CryptoCurrency
+"Your thoughts on the ""stable"" coin USDN","I recently came across a new stable coin called USDN offered by a decentralized exchange platform named Smardex. It appears that they have a feature which allows users to swap Ethereum and potentially USDT to their proprietary stable coin, USDN. This caught my interest, and I’m curious if anyone else has encountered this before?
+
+What makes USDN particularly intriguing is their advertised 58% APR just for holding the coin in your wallet. This is quite an attractive proposition, and it has piqued my interest significantly. However, I am a bit cautious, as it sounds almost too good to be true. I would like to give it a try, but I want to ensure it's a sound investment and not something that might lead me into complications or unforeseen issues down the line.
+
+From what I understand, there are two main avenues to acquire USDN: you can either mint new USDN coins or swap existing cryptocurrencies to USDN. The prospect of such high returns is tempting, yet it’s crucial to assess the reliability and legitimacy of Smardex and their offerings. Before taking the plunge, I would like to gather more insights from others who might have experience with USDN to determine whether it’s genuinely worth the risk, or if it would be wiser to approach this offer with caution.
+
+Link: https://smardex.io/usdn/vault (hope that posting links is fine. Only for reference)",Azkabandi,1739215190.0,16,CryptoCurrency
+CFTC Intensifies Crypto Fraud Crackdown: Major Legal Actions and Public Awareness Campaign Launched - Crypto-News.net,,ComeViejos,1739223696.0,10,CryptoCurrency
+Armed police arrest three Britons over alleged kidnap of crypto broker,,CriticalCobraz,1739214455.0,17,CryptoCurrency
+Bitcoin teases gains as traders say $100K now key support reclaim,,Illperformance6969,1739267134.0,0,CryptoCurrency
+Ethereum Outpaces Bitcoin as Digital Asset Fund Inflows Hit $1.3 Billion,,Illperformance6969,1739264680.0,3,CryptoCurrency
+BBC journalist Nick Robinson’s social media ‘hacked to promote cryptocurrency’,,Abdeliq,1739262928.0,1,CryptoCurrency
+CZ Says Binance's Token Listing Process is 'Broken',,kirtash93,1739275164.0,0,CryptoCurrency
+Bitcoin Climbs Above $97K as Trade Volume Surges – Markets and Prices Bitcoin News,,Every_Hunt_160,1739237482.0,2,CryptoCurrency
+"My first step into tokenized uranium—so far, so good!","I’ve been into crypto for a while, but uranium tokenization was new to me. Decided to jump in a few months ago.
+
+So far, the process has been smooth—bought small fractions easily, 24/7. I also like that they post a transparency doc showing the actual uranium holdings (I checked it, looks legit).
+
+Sure, there are risks: if you forget your wallet keys or if the platform goes down, that’s on you. But I see it as a cool way to diversify and get in on the nuclear energy momentum. Anyone else here dipping a toe in tokenized uranium?",BigFany,1739294140.0,0,CryptoCurrency
+Can anyone help me figure out what coins these are that I bought about 8 years ago?,"About 8 years ago I bought $50 or $100 worth of some random alt-coins and put them on paper wallets and then forgot about it. 
+I recently found my paper wallets, but I don’t remember what coins these are, or how to check the balance (if they’re not completely dead).
+Each coin has a little symbol (which I can’t really read, a public key, and some instructions that I’m not finding helpful. I’ve tried scanning the public key on a few different blockchain explorers but nothing is coming up. 
+I do have the private key for each of these on a separate piece of paper (which I’m not going to post)
+Can anyone help me figure out what coins these are and how do I check the balance?
+Thanks for the help 🤞",TimingIsntEverything,1739286077.0,0,CryptoCurrency
+What is behind the ‘Harry Bōlz’ madness? Elon Musk’s name change on X sparks crypto frenzy,,Abdeliq,1739279055.0,0,CryptoCurrency
+"Dave Portnoy promotes meme coin Jailstool, token surges 100,000% overnight",,KIG45,1739117482.0,774,CryptoCurrency
+"Cboe BZX submits filings for XRP ETFs from Bitwise, WisdomTree, Canary, and 21Shares.","Looks like the hype for xrp is gonna huge this bull run. 
+Cboe BZX Exchange has filed requests with U.S. regulators to launch the first spot XRP exchange-traded funds (ETFs).
+On February 6, the exchange submitted filings for four asset managers Canary Capital, WisdomTree, 21Shares, and Bitwise. These ETFs would track the price of XRP, the fourth-largest cryptocurrency.
+These filings notify the U.S. Securities and Exchange Commission (SEC) about a proposed rule change. If approved, these would be the first XRP ETFs in the U.S.
+
+Earlier, under former SEC Chair Gary Gensler, ETFs for Bitcoin and Ethereum were approved in early 2024.
+
+Now, with Acting Chair Mark Uyeda, who is seen as more supportive of crypto, there has been an increase in crypto-related ETF filings. Analysts believe issuers are testing what new crypto products the SEC, possibly influenced by a Trump administration, might approve.
+
+I think we are now getting a lot of adoption and attention towards crypto . Many more expectations from other major exchanges like bitget and kucoin regarding etfs. 
+
+",Stunning-Ask3032,1739225061.0,4,CryptoCurrency
+Is the crypto bull market over? Retail sentiment is ‘worst it’s been in years’,,Illperformance6969,1739126265.0,439,CryptoCurrency
+"The crazy world of crypto, It's only getting worse","  
+Crypto has been through ups and downs but honestly since 2017 when layer two tokens for Ethereum took off and DeFi came into existence it's only gotten more wild.
+
+  
+I'd have to say at least the first part of what would be considered a fun meme coin project would have been DOGE at least one that really took off and became one of the most adopted token. This was back in 2014, and before that I would say most projects where legitimate cases of blockchain such as litecoin.
+
+From there things fell rather quite for a while until 2017 when Ethereum layer two tokens really took off. This layer two token system opened up a lot of possibilities but it also opened up a lot of failed projects and yes scam investments.
+
+From there we then moved into 2020-2021 with the introduction of Meme coins, DeFi and NFT a rather large growth in terms of amount of projects and people getting involved.
+
+ Now we are in 2024-2025 bull run and we have a lot of the same crazy going on but at a whole new level. We have meme coin crazy, scams, rug pulls, DeFi hacks, Layer two token projects, NFTs, web3, gaming and more. It's gotten so big now that not everything goes up.
+
+https://preview.redd.it/nioyb8mjvhie1.png?width=1600&format=png&auto=webp&s=80e9e164b8e7b0ff65dfd4681b21e8760c0d3d04
+
+Read the rest of the post on Bitcoinflood's blog: [https://peakd.com/hive-167922/@bitcoinflood/the-crazy-world-of-crypto-its-only-getting-worse-ec9](https://peakd.com/hive-167922/@bitcoinflood/the-crazy-world-of-crypto-its-only-getting-worse-ec9)",renkure,1739273207.0,0,CryptoCurrency
+Bitcoin Ad at Super Bowl Half Time,"In 2025, Bitcoin is taking the stage at the Super Bowl, showcasing its potential for a brighter financial future. The ad will highlight how Bitcoin offers freedom, decentralization, and a hedge against inflation. 
+
+With adoption growing globally, this ad marks a major milestone in Bitcoin’s journey from a niche asset to mainstream recognition. Get ready to see Bitcoin as a game-changer in the financial world",Brimmert,1739130414.0,215,CryptoCurrency
+Crypto exchanges with Pies,"Is anyone familiar with any crypto exchanges (preference for European) that have a feature similar to the pies from Trading212?
+
+The ones that have something similar (like Binance) only allow it to be used in automatic recurring buys, while Trading212’s pies can be used for manual investments and recurring as well.
+
+I haven’t been able to find an exchange that supports it, and after the success of Trading212’s Pies, I find it a bit weird no crypto exchanges tried to capture the concept, specially given the importance of having a diversified portfolio when it comes to crypto currency.",migueels,1739234726.0,1,CryptoCurrency
+Elon Musk’s DOGE Pushes for Blockchain Transparency in U.S. Government Spending,,hiorea,1739118057.0,365,CryptoCurrency
+Poland’s Central Bank rules out Bitcoin for reserves,,Shoddy_Trick7610,1739132729.0,158,CryptoCurrency
+Arthur Hayes on Ether: ‘Vitalik cares about the price… he’ll do something about it’,,BigRon1977,1739260102.0,0,CryptoCurrency
+Bitcoin hashrate hits a new ATH,,Odd-Radio-8500,1739113144.0,343,CryptoCurrency
+Can customers actually do XRP-based money transfers through conventional banks?,"I'm from a country with a very archaic and anti-competitive banking system. From what I've read, at least one chain of major national banks has some affiliation to XRP, but I haven't seen anything about how to do faster and less expensive money transfers via XRP from that bank. XRP isn't mentioned anywhere on its website, and that got me wondering how banks even refer to XRP-based money transfers - to the extent that they acknowledge XRP or crypto to their customers at all.
+
+Do any banks where you live actually let you transfer fiat money via XRP? If so, do they refer to such transactions as ""wire transfers,"" ""XRP money transfers,"" or something different? Also, wouldn't both the sending bank AND the receiving bank need to support XRP for this sort of transfer to go through?",bje332013,1739149925.0,66,CryptoCurrency
+"Don’t look now, but the US Federal Reserve is slowly turning pro-crypto",,kirtash93,1739257729.0,0,CryptoCurrency
+"Memecoin Madness Returns as Barstool Sports, BNB Chain, and an Entire African Country Dabble With Meme Tokens",,Illperformance6969,1739177168.0,11,CryptoCurrency
+"Removing FDIC? ""In trustless, we Bitcoin""",,553l8008,1739203758.0,3,CryptoCurrency
+"Okay it’s Tuesday, lets have your ‘make me rich’ in 10 years crypto tickers….","Okay it’s Tuesday, we all have to work, nobody likes work so lets get rich today. We need to find some ‘make me rich’ in 10 years crypto tickers…
+
+Following on from a ‘make me rich ticker picker’ on r/stocks yesterday, where everybody gave 3 stock tickers which they think will make them filthy rich in 10 years, lets go again! But this time with crypto…
+
+Rules:
+
+1. Pick 3 crypto tickers
+2. Explain why they are going to make you filthy rich.
+
+I will then take all the data and make a chart and list, showing the most popular ‘make me filthy rich’ cryptos from the thread.
+
+Edit: Lots of salty downvoters obviously don’t like getting rich on a Tuesday. I’m sorry if I’ve triggered you but we just wanna quit our jobs down here!
+
+Edit2: Not so many mentions of ETH? Wonder why that is?
+
+**Edit3: Okay, so the results are coming in and I've started to organise the data into a chart of the top 4 cryptos mentioned today, see here:** [**https://www.reddit.com/r/Cryptocurrencycat/comments/1imydga/top\_4\_most\_popular\_cryptos\_from\_the/**](https://www.reddit.com/r/Cryptocurrencycat/comments/1imydga/top_4_most_popular_cryptos_from_the/)
+
+**Solana is above Ethereum at the moment, which is interesting. What do you guys think is going on there?**",Loud-Ad9148,1739260219.0,0,CryptoCurrency
+Crypto investment products see $1.3 billion in weekly inflows despite Trump tariff woes: CoinShares,,CoolGap2,1739192634.0,2,CryptoCurrency
+Telcoin - not enough attention,"For a cryptocurrency company that has been a trailblazer in writing and passing a pro crypto bill in Nebraska to now being Conditionally approved to open the first US Digital Asset Bank charter - how does telcoin not get enough attention from the community? They will have access the Fed rails and provide crypto services to small banks and big banks alike. An actual use of cryptocurrency, yet many journalists, crypto news breakers don’t report about it. 
+
+The government at the moment is very hot on stable coins, yet we now have the company telcoin that can now legally issue dollar backed stablecoins. They are planning for the US dollar, Mexican peso, Philippine peso, etc. the biggest remittance corridors there are, and yet we don’t spread the news? I mean, this is tech! Actual adoption and use of crypto. I just don’t get how they don’t have the CT backing or support from more people. It’s an older company that survived bear markets and is still building and it’s at its peak potential right now. And I haven even talked about telecoms, the telcoin network, and how the token is used in the systems they are soon releasing.
+
+
+Wake up people!!
+",Valuable-Art-1806,1739242656.0,0,CryptoCurrency
+"Economist Henrik Zeberg Says No Indications That Crypto Bull Market Top Is In, Predicts ‘Fantastic’ Altcoin Season",,partymsl,1739136222.0,51,CryptoCurrency
+Calling All Developers & Artists: Join the r/Bucketheads Community Contests! 🎨💻,"r/Bucketheads is hosting two major contests—one for developers and one for artists—with exclusive Reddit Collectible Avatars (RCAs) & $BUCKETS as prizes!
+
+🛠 Development Contest (Deadline: March 31st)
+
+🎯 Objective: Build a game/tool to enhance r/Bucketheads!
+🏅 Prizes:
+✅ Conesmith #1 RCA (unique collectible avatar)
+✅ 848,000 $BUCKETS (community currency)
+📜 Legal Agreements Required
+🔹 Community votes via CommunityVotingBot
+
+Link to original post here: https://www.np.reddit.com/r/Bucketheads/s/cKgehANaFn
+
+🎨 Art Contests: Pencilhead & Markerhead Challenges
+
+🖊️ Pencilhead Challenge: Create weekly pencil bucket-themed drawings.
+🖍️ Markerhead Challenge: Create weekly marker bucket-themed drawings.
+🏆 Prizes:
+✅ Pencilhead #1 RCA ✏️
+✅ Markerhead #1 RCA 🖊️
+📜 Legal Agreement: Ensures you retain ownership while allowing r/Bucketheads to use entries for promotions.
+
+Link to original post here: https://www.np.reddit.com/r/Bucketheads/s/ksPO97odDr
+
+📢 How to Enter:
+
+1️⃣ Comment below or DM the Buckethead mod team to apply.
+2️⃣ Review & sign the contest agreement.
+3️⃣ Submit your work before the deadlines.
+4️⃣ Community votes decide the winners!
+
+🏆 Why Join?
+✔️ Get your work featured in r/Bucketheads.
+✔️ Earn exclusive RCAs + $BUCKETS!
+✔️ Help grow the Bucketheads ecosystem!
+
+Let's build & create together! 🔥 #Bucketheads #BuildForGood #ArtForGood",leviathynx,1739211686.0,1,CryptoCurrency
+Klarna to Accept Crypto Payments as It Targets $15 Billion IPO Valuation,,CriticalCobraz,1739118292.0,114,CryptoCurrency
+Polygon & the Super Bowl: From Reddit Avatars to Polymarket’s $14M Bet,"Today I crossed with this interesting [Tweet ](https://x.com/p_petertherock/status/1888697925423055196)sharing data regarding the NFL Super Bowl on Polygon.
+
+As you may know, two years ago Reddit had a Reddit Collectible Avatars marketing campaign for the NFL Super Bowl LVII and they gifted event related avatars to the users that claimed them. Like this one:
+
+https://preview.redd.it/otzpr7cxe9ie1.png?width=780&format=png&auto=webp&s=4c11a4bcb1012357f0045a9d85d05fa4b335dfe3
+
+This whole event minted 2,124,854M Collectible avatars on Polygon Network. Unfortunately Reddit next year's Superbowl tried something similar but making them too expensive and not achieving that great success.
+
+https://preview.redd.it/c8bpje8ye9ie1.png?width=1704&format=png&auto=webp&s=7cab97c93ac7dbe580b8c5584b3c01b2ac694c6c
+
+This year unfortunately Reddit didn't organized any kind of Superbowl Reddit Collectible avatars related event but this time we have another protagonist, Polymarket.
+
+Polymarket is making Polygon once again the center of the action in this Super Bowl LIX with $14 million in active positions across 478 Super Bowl related markets.
+
+https://preview.redd.it/8f4j0vcze9ie1.png?width=1134&format=png&auto=webp&s=8d8ea4f64ae9bf83243e247b50eab8bb720ee9d0
+
+Polymarket is having +$414M in betting volume as you can see in the image below.
+
+https://preview.redd.it/0ezm6db0f9ie1.png?width=2866&format=png&auto=webp&s=a7ed80ca307de721aead71c5cc9a0fadedeb4a61
+
+Polygon continues to cement its presence at the NFL Super Bowl, and this time, it’s through **Polymarket**, the popular decentralized prediction market.
+
+https://preview.redd.it/ufc4f8yoa9ie1.png?width=1329&format=png&auto=webp&s=ac766257a4ac5282666da10bacf6056bb6815594
+
+Polymarket is really gamblers paradise xD
+
+With all of this I just want to show that Polygon has probably one of the most used real use of cases even if it is a casino and its bringing a lot of money and people to Polygon ecosystem building a unstoppable ecosystem that pushes adoption in crypto. And this is just the beginning because one AggLayer starts being operative it will be easier than ever to move money between layers to participate on fun dApps like Polymarket. Polygon is about to wake up.
+
+Source:
+
+* Tweet: [https://x.com/p\_petertherock/status/1888697925423055196](https://x.com/p_petertherock/status/1888697925423055196)
+* Dune: [https://dune.com/petertherock/polymarket-on-polygon](https://dune.com/petertherock/polymarket-on-polygon)
+* Dune 2: [https://dune.com/embeds/4695017/7808094](https://dune.com/embeds/4695017/7808094)",kirtash93,1739170587.0,7,CryptoCurrency
+"Kanye West, after disclosing he was offered $2 million to launch a token, asks to speak with Coinbase CEO 'concerning crypto'",,Every_Hunt_160,1739083429.0,591,CryptoCurrency
+"Daily Crypto Discussion - February 10, 2025 (GMT+0)","**Welcome to the Daily Crypto Discussion thread. Please read the disclaimer and rules before participating.**
+ 
+***
+&nbsp;
+    
+###Disclaimer:
+
+Consider all information posted here with several liberal heaps of salt, and always cross check any information you may read on this thread with known sources. Any trade information posted in this open thread may be highly misleading, and could be an attempt to manipulate new readers by known ""pump and dump (PnD) groups"" for their own profit. BEWARE of such practices and exercise utmost caution before acting on any trade tip mentioned here. 
+
+
+**Please be careful about what information you share and the actions you take.** Do not share the amounts of your portfolios (why not just share percentage?). Do not share your private keys or wallet seed. Use strong, non-SMS 2FA if possible. Beware of scammers and be smart. Do not invest more than you can afford to lose, and do not fall for pyramid schemes, promises of unrealistic returns (get-rich-quick schemes), and other common scams.
+    
+***
+&nbsp;
+    
+###Rules:
+
+  - All [sub rules](https://www.reddit.com/r/CryptoCurrency/about/rules/) apply in this thread. The prior exemption for karma and age requirements is no longer in effect. 
+  - Discussion topics must be related to cryptocurrency.
+  - Behave with civility and politeness. Do not use offensive, racist or homophobic language.
+  - Comments will be sorted by newest first.
+  
+***
+&nbsp;
+
+###Useful Links:
+
+  - [**Beginner Resources**](https://www.reddit.com/r/CryptoCurrency/wiki/beginner_resources)
+
+  - [**Intro to r/Cryptocurrency MOONs 🌔**](https://www.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/)
+
+  - [**MOONs Wiki Page**](https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki/)
+
+  - [**r/CryptoCurrency Discord**](https://www.reddit.com/r/CryptoCurrency/comments/kth255/join_the_crypto_currency_discord/)
+
+  - [**r/CryptoCurrencyMemes**](https://www.reddit.com/r/cryptocurrencymemes)
+
+  - [**Prior Daily Discussions**](https://www.reddit.com/r/CryptoCurrency/search?q=title%3A%22Daily+Crypto+Discussion+-+%22+&restrict_sr=on&sort=new&t=all) - (Link fixed.)
+
+  - [**r/CryptoCurrencyMeta**](https://www.reddit.com/r/CryptoCurrencyMeta/) - Join in on all meta discussions regarding r/CryptoCurrency whether it be moon distributions or governance.
+
+***
+&nbsp;
+
+### Finding Other Discussion Threads
+
+Follow a mod account below to be notified in your home feed when the latest r/CC discussion thread of your interest is posted.
+
+* u/CryptoDaily- — Posts the Daily Crypto Discussion threads. 
+
+* u/CryptoSkeptics — Posts the Monthly Skeptics Discussion threads.
+ 
+* u/CryptoOptimists- — Posts the Monthly Optimists Discussion threads.
+
+* u/CryptoNewsUpdates — Posts the Monthly News Summary threads.",CryptoDaily-,1739145675.0,22,CryptoCurrency
+Is B3 (Base) the next big gaming token? DYOR & drop your thoughts!,"https://preview.redd.it/d8ebxx5fsfie1.png?width=1502&format=png&auto=webp&s=cfa17ce3ad233d730be4062fc2a8ebc9db1572bc
+
+B3 just launched today.  
+  
+💰 **Current Price**: $0.0065 (-7.91% from ATH)  
+📊 **24H Volume**: $89.9M  
+🔹 **Fully Diluted Market Cap**: $644.7M  
+  
+B3 is a gaming ecosystem built on Base. The gaming ecosystem operates as a Layer 3 settlement layer on Base, in order to leverage the lower gas fees and higher throughput. The platform focuses on an open gaming ecosystem that streamlines interactions between developers and players by removing the need for wallets, bridges, or multiple tokens using chain abstraction technology. The B3 token can be used for governance, in-game transactions and access to in-game features.
+
+
+
+",ZaneStutt,1739248033.0,0,CryptoCurrency
+Why Everything Positive You've Heard About Crypto Is a Trick,"
+When you ask a crypto holder what they actually own in the amount shown in their wallet, they will likely say something like ""an asset"" or ""a store of value."" But that’s not true. The fact is, they own nothing. They hold a number but own nothing.
+
+To understand why, let’s first clarify what it actually means to own an asset or a store of value.
+
+Imagine you are holding 500 units of wheat. In this case, you don’t just hold a number; you own an asset. Why? Because wheat has the potential to fulfill people’s nutritional needs. It can provide direct benefits to people. Wheat itself stores the potential to provide that benefit. It stores value because it holds that potential. The number ""500"" is merely a way to express the amount of that stored potential. The bigger the number, the greater the potential.
+
+Now, let’s take another example. Suppose you hold 500 dollars. This, too, is an asset. Why? Because the dollar has the potential to fulfill people's need to pay debt. Every dollar in existence enters circulation as a loan, either through a commercial bank lending money to individuals or businesses or through a central bank purchasing government bonds. These obligations create a real, tangible need for dollars. Individuals and businesses need them, and the U.S. government needs them.
+
+Just as biology creates the need for food, the banking system creates the need for dollars through loan contracts, collateral, and government bonds. Debtors must acquire dollars to settle the obligations they signed. In this way, dollars store the potential to satisfy that need. The dollar itself stores value because it holds the potential to provide what is needed by the debtors in the U.S. banking system. If you hold 500 dollars, you own a specific amount of that potential to benefit debtors. The number '500' is simply a measure of this potential. The greater the number, the greater the potential.
+
+The same principle applies to digital goods. If you own a collection of music files, e-books, or software, you own assets because these things hold the potential to entertain, inform, or assist with tasks like writing or data analysis. They store value because they hold the potential to provide benefits to people. The more units of these digital goods you hold, the more benefits you can provide.
+
+In the above examples, we saw what it actually means to own an asset or a store of value: it means holding something with the potential to satisfy people's needs and provide a direct benefit.
+
+Now, let’s compare this to crypto. Crypto systems don’t have warehouses where they store wheat or any tangible goods. They don’t produce music, e-books, or software. They don’t issue loans, take collateral, or deal with government bonds.
+
+What crypto systems do is assign numbers to addresses and record those assignments in a decentralized digital ledger. That’s literally it. This means that when you hold a number in your wallet, you don’t own the potential to satisfy people's needs or provide any benefit to them. All you do is hold a number.
+
+If you hold the number 1, your potential to provide benefits to people is zero. If someone else holds the number 1,000,000, their potential is not a million times greater than yours; it is still zero. Both of you own zero potential to provide benefits to people. That’s why, by holding crypto, you don't own an asset or a store of value. And you certainly don't own money or currency, since those actually store value. Simply put, you hold a number but own nothing.
+
+Crypto holders, recognizing they own nothing, resort to spreading false or misleading narratives in a desperate bid to offload their numbers and acquire assets. One such false narrative is about scarcity. For instance, they point to Bitcoin’s 21 million cap and call it scarcity. But scarcity applies to things that satisfy needs or provide benefits. If you limit the amount of wheat or dollars in circulation, their ability to fulfill people's needs remains. But in crypto, there is nothing that can satisfy people's needs; there's nothing to be scarce, just numbers on a ledger. Therefore, the 21 million cap is not scarcity; it is merely a mathematical rule limiting the sum of numbers assigned to addresses.
+
+An example of a misleading narrative is the supposed simplicity and speed of crypto. This is often touted as one of its appealing qualities, but the reality is that crypto is fast and easy precisely because it doesn't manage any assets. Managing assets is inherently complex.
+
+Take wheat, for example: it requires warehouses, packaging, transportation, harvesting, quality control, and distribution networks to ensure its usability. Dollars, too, involve a complex web of processes, from assessing creditworthiness to drafting loan contracts, securing collateral, regulating banks, and enforcing debt repayment. All of these processes exist because managing something that actually provides benefits to people is far from simple or easy.
+
+In contrast, crypto systems only track which number is assigned to which address. And tracking numbers? That’s straightforward and easy.
+
+Another false narrative is that value is belief-based, that something is valuable if people believe in it, and if they don't, it's not valuable. But belief cannot change the potential of something to satisfy people’s needs. Wheat still has the potential to provide nutrition, and dollars still have the potential to settle debts to banks, regardless of what anyone believes. That stored potential is value. The claim that value is based on belief is just another trick crypto holders use to mislead people into giving up assets in exchange for numbers.
+
+No matter how many narratives crypto advocates spin, the fundamental fact remains: they hold numbers but own nothing. Everything positive you’ve ever heard about crypto is just a trick to get ownership of your valuable assets and dump numbers on you.",Life_Ad_2756,1739270294.0,0,CryptoCurrency
+Ethereum Raises Gas Limit for First Time Since Proof-of-Stake to Scale Transaction Capacity,,CriticalCobraz,1739118147.0,66,CryptoCurrency
+The University of Austin Announces $5 Million Bitcoin Endowment,,Foreign-Fox3574,1739119951.0,58,CryptoCurrency
+Early Crypto Traders Had Speedy Profit on Trump Coin as Others Suffered Losses (Gift Article),,IMSLI,1739123772.0,47,CryptoCurrency
+Russian Authorities Block Access to Country’s Largest Crypto Aggregator Platform,,Funnyurolith61,1739199063.0,0,CryptoCurrency
+I regret not buying Solana in 2020,"I’m currently fixated on the fact that I didn’t invest in Solana in 2020 when it first released. I had $20,000 to my name at the time. I could’ve put $10,000 into Solana and made $2,000,000+. I hate that I’m getting into crypto now. I should have a long time ago. I no longer have that kind of money. I hate having to go to school and get a 9-5. I’m dealing with mental illness so everything is difficult.
+
+I’m currently unemployed, depressed and hopeless. Living with my mom at 28. I don’t mean to sound like this, I just I’m really struggling to accept the fact that it never happened. And it may never happen in my life. 
+
+I currently fantasize of what I would do with all the money. How my quality of life would be 10x better than what it is today. If only I would’ve know. And yet, I don’t know a single person who invested in Solana that early and is a multimillionaire. It’s a terrible intrusive thought that won’t leave me. 
+
+But can someone please help me get over this thought and move forward with my life? It really is impacting so negatively. How do I get over this obsessive thought? It’s really ruining my quality of life 24/7. ",Tough_Ad_6806,1739254291.0,0,CryptoCurrency
+Austin University to launch $5M Bitcoin fund with 5-year HODL strategy: Report,,Afonsoo99,1739107120.0,96,CryptoCurrency
+Nigeria Embraces Blockchain: SEC Director General Sees Huge Potential for Capital Market Regulation,,KIG45,1739132118.0,26,CryptoCurrency
+"Data: El Salvador's Bitcoin holdings reached 6,072.18 coins, with an increase of 17 coins in the past 7 days - ChainCatcher",,Every_Hunt_160,1739118085.0,53,CryptoCurrency
+"Tether CEO ""All people alive ... will move to new QUANTUM-RESISTANT addresses”","He's correct- the transition has to happen.    
+  
+But apparently he doesn't see an issue with 20-25% of supply (lost wallets) being taken by quantum computing.  
+
+That's quite the rosy take on it.  I'd imagine smart money would exit ahead of this for 3 reasons.    
+  
+Potential panic as wallets ""wake up"" at an alarming rate.    
+Potential panic at what the price impact could be.    
+Potential panic of people worrying others will panic.
+
+  
+I actually think there is a much better approach - that I've written about before.    
+  
+I was told it was a bad idea.  My guess is people either didn't get it, or didn't like the idea that quantum computing requires solutions, starting now to properly be ready without disruption.
+
+This certainly is not a narrative, it isn't FUD.    
+  
+The biggest players in the world recognize it- and that includes the CEO of Tether.
+
+Let's stop trying to spin it, ignore it, or assume it will be managed.  The time to deal with it is now.
+
+[https://x.com/paoloardoino/status/1888259298641191049](https://x.com/paoloardoino/status/1888259298641191049)
+
+  
+[https://news.bitcoin.com/tether-ceo-predicts-lost-bitcoin-wallets-vulnerable-in-quantum-future-satoshis-stash-at-risk/](https://news.bitcoin.com/tether-ceo-predicts-lost-bitcoin-wallets-vulnerable-in-quantum-future-satoshis-stash-at-risk/)",Original-Assistant-8,1739119777.0,41,CryptoCurrency
+Privacy-focused layer 2s will transform Ethereum's enterprise future,,goldyluckinblokchain,1739132946.0,18,CryptoCurrency
+Bitcoin Newcomers FAQ - Please read!,"# Welcome to the /r/Bitcoin Newcomers FAQ
+
+You've probably been hearing a lot about Bitcoin recently and are wondering what's the big deal?  Most of your questions should be answered by the resources below but if you have additional questions feel free to ask them in the comments.  
+
+It all started with the release of **[Satoshi Nakamoto's whitepaper](https://bitcoin.org/bitcoin.pdf)** however that will probably go over the head of most readers so we recommend the following articles/books/videos as a good starting point for understanding how Bitcoin works and a little about its long term potential:
+
+* [Article: The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
+* [Book: The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) - or [download a free copy here](http://cryptache.ro/wp-content/uploads/2021/04/The-Bitcoin-Standard-The-Decentralized-Alternative-to-Central-Banking-PDF-Room.pdf)
+* [Video 1: An introduction to Bitcoin - Wences Casares](https://www.youtube.com/watch?v=IAFKJVLNVQA)
+* [Video 2: The Stories We Tell About Money - Andreas Antonopoulos](https://www.youtube.com/watch?v=ONvg9SbauMg)
+* [Video 3: The Bitcoin Standard - Saifdean Ammous](https://www.youtube.com/watch?v=Zbm772vF-5M&t=286s) 
+* [Video 4: Bitcoin 101 - Balaji Srinivasan](https://www.youtube.com/watch?v=JIxwTx7o_B4)
+
+Some other great educational resources include;
+
+* The [Satoshi Nakamoto Institute](http://nakamotoinstitute.org/mempool/) (check them out!)  
+* Swan [Bitcoin Canon](https://www.swanbitcoin.com/canon/)
+* Michael Saylor's [Hope.com](https://hope.com/) and [""Bitcoin for Everybody""'](https://learn.saylor.org/course/view.php?id=468) course
+* Jameson Lopp's [resource page](http://lopp.net/bitcoin.html)
+* Gigi's [resource page](https://bitcoin-resources.com/#bitcoin-non-technical)
+* James D'Angelo's [Bitcoin 101 Blackboard series](https://www.youtube.com/watch?v=Bhe61JaNFLU&list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q&index=7&t=0s)
+* Parker Lewis's [Gradually Then Suddenly series](https://unchained.com/blog/category/gradually-then-suddenly/)
+* Some Bitcoin statistics can be found here ([1](https://www.lookintobitcoin.com/), [2](https://data.bitcoinity.org/bitcoin/hashrate/6m?c=m&g=15&r=week&t=a), [3](https://bitcoinvisuals.com/), [4](https://bitcoin.clarkmoody.com/dashboard/), [5](https://studio.glassnode.com/workbench/btc-price-performance-since-halving), [6](https://augmentedcoin.io/btc), [7](https://nakamotoportfolio.com/nakamoto/start)).
+* A Reading List of [Advanced Bitcoin Books](https://new.reddit.com/r/Bitcoin/comments/1c5fjhn/advanced_bitcoin_reading_list_curriculum_in_order/)  
+
+If you are technically or academically inclined check out;
+
+* Developer resources ([1](https://developer.bitcoin.org/), [2](https://spiral.xyz/#projects)) 
+* [Peer-reviewed research papers](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg)
+* Course lectures from both [MIT](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) and [Princeton](https://www.reddit.com/r/Bitcoin/comments/7qynvj/dont_panic_just_learn_sixty_free_lectures_from/) 
+*  Future [protocol improvements](http://diyhpl.us/wiki/transcripts/2018-01-24-rusty-russell-future-bitcoin-tech-directions/) and [scaling resources](https://www.reddit.com/r/Bitcoin/comments/56nnd8/the_scaling_bitcoin_website_is_awesome_videos/).  
+
+MicroStrategy's [Bitcoin for Corporations](https://www.microstrategy.com/en/resources/events/world-2021/bitcoin-summit?CID=7014W0000014yhJQAQ) is an excellent open source series on corporate legal and financial Bitcoin integration.
+
+You can also see the number of times Bitcoin was [declared dead by the media](https://99bitcoins.com/obituary-stats) (LOL!)
+
+## Key properties of Bitcoin
+
+* **Limited Supply** - There will only ever be a [maximum of 21,000,000 bitcoins created](https://www.reddit.com/r/Bitcoin/comments/10h04a6/this_is_how_we_know_theres_only_21_million_bitcoin/) and they are issued in a predictable fashion per the [inflation schedule](https://bashco.github.io/Bitcoin_Monetary_Inflation/).  Once they are all issued Bitcoin will be truly deflationary.  The [halving countdown](http://bitcoinblockhalf.com/) tells you approximately how much time until the next block reward halving.
+* **Open source** - Bitcoin code is fully auditable.  You can read and contribute to the [source code](https://github.com/bitcoin/bitcoin) yourself.
+* **Accountable** - The public ledger is transparent, all transactions are [seen by everyone](https://blockstream.info/).
+* **Decentralized** - Bitcoin is globally distributed across thousands of nodes with no single point of failure and as such can't be shut down similar to how [Bittorrent](https://en.wikipedia.org/wiki/BitTorrent) works.  You can even [run a node on a Raspberry Pi](https://getumbrel.com/).  
+* **Censorship resistant** - No one can prevent you from interacting with the Bitcoin network and no one can censor, alter or block transactions that they disagree with, see [Operation Chokepoint](https://en.wikipedia.org/wiki/Operation_Choke_Point).
+* **Push system** - There are [no chargebacks](https://gendal.me/2013/10/21/lessons-from-bitcoin-push-versus-pull/) in Bitcoin because only the person who owns the address where the bitcoin resides has the authority to move them.
+* **Borderless** - No country can stop it from going in/out, even in areas currently unserved by traditional banking as the ledger is [globally distributed](https://bitnodes.earn.com/).
+* **Trustless** - Bitcoin solved the [Byzantine's Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) which means nobody needs to trust anybody for it to work.
+* **Pseudonymous** - No need to [expose personal information](https://buybitcoinworldwide.com/anonymity/) when purchasing with cash or transacting. 
+* **Secure** - Blocks and transactions are cryptographically secured (using hashes and signatures) and can’t be [brute forced](http://i.imgur.com/fYFBsqp.jpg) or confiscated with proper key management such as hardware wallets.
+* **Programmable** - Individual units of bitcoin can be [programmed to transfer](https://en.bitcoin.it/wiki/Script) based on certain criteria being met
+* **Divisible** - Each bitcoin can be [divided down to 8 decimals](https://en.bitcoin.it/wiki/Satoshi_(unit\)), which means you don't have to worry about buying an entire bitcoin. 
+* **Nearly instant** - From a few seconds on the Lightning Network to a [few minutes](https://www.blockchain.com/charts/median-confirmation-time) on-chain depending on need for confirmations.  Transactions are irreversible by normal users after one confirmation and irreversible by anyone (including miners) after 6 confirmations. 
+* **Peer-to-peer** - No intermediaries taking a cut, no need for [trusted third parties](https://nakamotoinstitute.org/trusted-third-parties/).
+* **Designed Money** - Bitcoin was created to fit all the [fundamental properties of money](http://i.imgur.com/wkTyyaV.png) better than gold or fiat.
+* **Portable** - Bitcoin are digital so they are easier to move than cash or gold.  They can be transported by simply carrying a seed (a string of 12 to 24 words) on a device or by [memorizing it for wallet recovery](https://en.bitcoin.it/wiki/Brainwallet) (while cool, memorizing is generally not recommended due to potential for forgetting the seed and the potential for insecure key generation by inexperienced users.  Hardware wallets are the preferred method for most users for their ease of use and additional security).
+* **Low fee scaling** - Most wallets calculate on chain fees automatically but you can view [fee estimates](https://bitcoinfees.earn.com/) and [mempool activity](https://jochen-hoenicke.de/queue/#0,2w) if you want to set your fee manually.  On chain fees may rise occasionally due to network demand, however instant micropayments that do not require confirmations are happening via the [Lightning Network](https://lightning.network/), an open source second layer payment protocol built on top of the Bitcoin blockchain. The Lightning Network enables Bitcoin users to instantly send and receive bitcoin with fees so low that they are negligible.
+* **Scalable** - While the protocol is still being optimized for [increased transaction capacity](https://en.bitcoin.it/wiki/Scalability), blockchains do not scale very well, so most transaction volume is expected to occur on Layer 2 networks built on top of Bitcoin.
+
+## Where can I buy bitcoin?
+
+[Bitcoin.org](https://bitcoin.org/en/buy) and [BuyBitcoinWorldwide.com](https://www.buybitcoinworldwide.com/) are helpful sites for beginners.  You can buy or sell any amount of bitcoin (even just a few dollars worth) and there are several easy methods to purchase bitcoin with cash, credit card or bank transfer.  Some of the more popular places to buy bitcoin are listed below.
+
+* [Strike](https://strike.me/)
+* [Cash App](https://cash.app/)
+* [Swan](https://www.swanbitcoin.com/)
+* [River Financial](https://river.com/)
+* [Bull Bitcoin](https://www.bullbitcoin.com/) 
+* [Bitcoin Well](https://bitcoinwell.com/) 
+* [Relai](https://relai.app/)
+* [LibertyX](https://libertyx.com/)
+* [CoinCorner](https://www.coincorner.com/)
+* [RoboSats](https://learn.robosats.com/) (P2P)
+* [Bisq](https://bisq.network/) (decentralized & P2P)
+* [HodlHodl](https://hodlhodl.com/?filters%5Bcurrency_code%5D=USD) (P2P)
+* [List of peer-to-peer exchanges](https://github.com/cointastical/P2P-Trading-Exchanges/)
+* [Debifi](https://debifi.com/) (non-custodial lending)
+
+You can also purchase in cash with [local ATMs](http://coinatmradar.com/). Services such as [CardCoins](https://www.cardcoins.co/) let you purchase bitcoin with prepaid gift cards. If you would like your paycheck automatically converted to bitcoin use [Bitwage](https://www.bitwage.com/).  
+
+**Note:** Bitcoin are valued at whatever [market price](https://cryptowat.ch/bitstamp/btcusd) people are willing to pay for them in balancing act of supply vs demand. Unlike traditional markets, bitcoin markets operate 24 hours per day, 365 days per year. 
+
+## Securing your bitcoin
+
+With Bitcoin you can **""Be your own bank""** and personally secure your bitcoin **OR** you can use third party companies aka **""Bitcoin banks""** which will hold your bitcoin for you.
+
+* If you prefer to **""Be your own bank""** and have direct control over your coins without having to use a trusted third party, then you will need to create your own wallet and keep it secure. If you want easy and secure storage without having to learn best computer security practices, then a hardware wallet such as a [BitBox02](https://bitbox.swiss/bitbox02/),  [Trezor](https://www.trezor.io/), [ColdCard](https://coldcardwallet.com/), or [Blockstream Jade](https://blockstream.com/jade/) is recommended. You can even build your own open source hardware wallets called a [SeedSigner](https://seedsigner.com/) or [Krux](https://selfcustody.github.io/krux/).
+
+* If you cannot afford a hardware wallet there are many [software wallet](https://bitcoin.org/en/choose-your-wallet) options to choose from depending on your use case.  Mobile wallets like [BlueWallet](https://bluewallet.io/) are generally more secure than desktop wallets.  Beware of fake mobile wallets and check reviews from reputable Bitcoin websites.  Avoid paper wallets or brain wallets.
+
+* If you prefer to work with third party **""Bitcoin banks""** to set up a collaborative custody arrangement, try [Unchained Capital](https://unchained-capital.com/) but be aware that any third party you use exposes you to third party risk.  There is a saying in the community, **""Not your keys, not your coins""**. 
+
+**Note: For increased security, use Two Factor Authentication (2FA) everywhere it is offered, including email!** 
+
+2FA requires a second confirmation code or a physical security key to access your account making it much harder for thieves to gain access.  Google Authenticator and Authy are the two most popular 2FA services, download links are below.  Make sure you create backups of your 2FA codes.
+
+**Avoid using your cell number for 2FA.**  Hackers have been using a technique called ""SIM swapping"" to impersonate users and steal bitcoin off exchanges.
+
+Google Auth | Authy | OTP Auth | andOTP
+--------------|--------|------------|--------
+[Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) | [Android](https://play.google.com/store/apps/details?id=com.authy.authy&hl=en) | N/A | [Android](https://play.google.com/store/apps/details?id=org.shadowice.flocke.andotp)
+[iOS](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8) | [iOS](https://itunes.apple.com/us/app/authy/id494168017) | [iOS](https://apps.apple.com/us/app/otp-auth/id659877384) | N/A
+
+Physical security keys (FIDO U2F) offer stronger security than Google Auth / Authy and other TOTP-based apps, because the secret code never leaves the device and it uses bi-directional authentication so it prevents phishing. If you lose the device though, you could lose access to your account, so always use 2 or more security keys with a given account so you have backups. See [Yubikey](https://yubikey.com/) or [Titan](https://cloud.google.com/titan-security-key) to purchase security keys.
+
+## Running Bitcoin
+
+You can run [Bitcoin node](https://bitcoin.stackexchange.com/questions/18736/what-is-a-bitcoin-node) software by downloading and installing [Bitcoin Core](https://bitcoincore.org) or other node software you have vetted. 
+
+It is a best practice to verify these Bitcoin node programs you download by [checking their hashes and signatures](https://youtu.be/U0I-ImS_r8o?si=qa_gRyGPuRZq5acM). 
+
+Don't Trust, Verify.
+
+* https://github.com/bitcoin/bitcoin/releases
+* https://bitcoincore.org
+* https://bitcoin.org/en/bitcoin-core/
+
+A verified Bitcoin node running on your own hardware is your sovereign gateway to the Bitcoin network. They can be used alongside open source software [wallets](https://en.bitcoin.it/wiki/Wallet) to send and receive Bitcoin securely. By running your own Bitcoin node, you enforce the Bitcoin ruleset, can verify transactions without trusted 3rd party middlemen, improve your Bitcoin privacy, obtain independence with local access to blockchain data, and help bolster the robustness of the Bitcoin network. By running a Bitcoin node, you are verifying that Bitcoin is Bitcoin for yourself. For more details on running a Bitcoin node see [this article](https://unchained.com/blog/why-run-bitcoin-node/). 
+
+For wallets used alongside your Bitcoin node: If your Bitcoin wallet software is fully [open source](https://bitcoin.stackexchange.com/questions/80111/is-bitcoin-completely-open-source/80115#80115) and Bitcoin-only, then it is probably a decent wallet. Some popular examples include [sparrow wallet](https://sparrowwallet.com/) and [electrum wallet](https://electrum.org/), both of which you can connect to your own locally run Bitcoin node, and use with most Bitcoin Hardware Wallets.
+
+## Watch out for scams
+
+As mentioned above, Bitcoin is decentralized, which by definition means there is no official website or Twitter handle or spokesperson or CEO. However, all money attracts thieves. This combination unfortunately results in scammers running official sounding names or pretending to be an authority on YouTube or social media. Many scammers throughout the years have claimed to be the inventor of Bitcoin. Websites like bitcoin(dot)com and the r / btc subreddit are active scams.  Almost all altcoins are marketed heavily with big promises but are really just designed to separate you from your bitcoin.  So be careful: any resource, including all linked in this document, may in the future turn evil.  As they say in our community, **""Don't trust, verify""**. 
+
+* Avoid using ad-based search engines like Google or Yahoo: ads are shown based on how much the advertiser bids, and scammers can easily outbid legitimate providers for ad space, since immoral ways of earning money are far more lucrative than moral ways.  Use [DuckDuckGo](https://duckduckgo.com/) instead, which has no ads, and never tracks you as well.
+* Ignore private messages offering services.
+* **Never enter your seed words in a website of any kind.** Hardware wallets will recover by displaying possible seed words on their own interface, never on a website.
+* **Always check addresses on your hardware wallet before sending or receiving.**  Some malware has been known to replace addresses in your web browser or that you copy-and-paste.
+* Avoid clicking on links like that look like links, such as [https://www.google.com/](https://www.youtube.com/watch?v=8ybW48rKBME), without first hovering over it and actually checking where they go to.  Just because a link is labelled with an HTTPS address does not mean it actually sends you to that address.  It is trivial for someone to comment a link on Reddit that looks like it will send you to one website when it actually sends you to another, and you might not notice the difference until a scammer has gotten all your money, or you have downloaded and installed software that steals your money.
+
+## Common Bitcoin Myths
+Often the same concerns arise about Bitcoin from newcomers.  Questions such as:
+
+* Will quantum computers break Bitcoin?
+* Will governments ban Bitcoin?
+* Is Bitcoin a Ponzi scheme?
+
+All of these questions have been answered many times by a variety of people.  Here are some resources where you can see if your concern has been answered:
+
+* [Common Bitcoin Myths](https://en.bitcoin.it/wiki/Myths)
+* [Gradually, Then Suddenly](https://nakamotoinstitute.org/mempool/series/gradually-then-suddenly/)
+* [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/)
+* [The Best Articles Debunking Bitcoin FUD](https://endthefud.org/)
+* [Why Bitcoin is Not a Ponzi Scheme: Point by Point](https://www.swanbitcoin.com/why-bitcoin-is-not-a-ponzi-scheme-point-by-point/)
+
+## Where can I spend bitcoin?
+
+Check out [Spendabit](https://spendabit.co/), [Bitcoin Directory](http://bitcoin.directory/shop), or [Coinmap](http://coinmap.org/) for a plethora of merchant options. You can also spend bitcoin anywhere Visa is accepted with bitcoin debit cards such as the [CashApp card](https://cash.app/help/us/en-us/3080-cash-card-get-started), [Fold card](https://foldapp.com/) or other bitcoin debit cards.  Some other useful site are listed below.
+
+Store | Product
+---|---
+[Bitrefill](https://bitrefill.com), [Gyft](http://www.gyft.com/), and [Fold App](https://foldapp.com/)  | Gift cards for thousands of retailers worldwide including Amazon, Target, Walmart, Starbucks, Whole Foods, CVS, Lowes, Home Depot, iTunes, Best Buy, Sears, Kohls, eBay, GameStop, etc.
+[Spendabit](https://spendabit.co/), [Overstock](http://www.overstock.com/), and [The Bitcoin Directory](http://bitcoin.directory/) | Retail shopping with millions of results
+[NewEgg](http://www.newegg.com/) and [Dell](http://www.dell.com/) | For all your electronics needs
+[Bitrefill](https://www.bitrefill.com/buy/worldwide/bill/), [Bylls](https://bylls.com), [LivingRoomofSatoshi](https://www.livingroomofsatoshi.com), [Swapin](https://www.swapin.com/), [Coins.ph](https://coins.ph), and [more](https://plusbitcoin.net/bitcoin-debit-card/) | Bill payment
+[Menufy](https://www.menufy.com/) and [Takeaway](http://corporate.takeaway.com/) | Takeout delivered to your door
+[Expedia](http://www.expedia.com/), [Cheapair](http://www.cheapair.com/), [Destinia](http://destinia.us/), [SkyTours](http://www.sky-tours.com/), the [Travel](https://www.gyft.com/buy-gift-cards/category/travel/) category on Gyft and [9flats](http://www.9flats.com/) | For when you need to get away
+[Cryptostorm](https://cryptostorm.is), [Mullvad](https://mullvad.net), and [PIA](https://www.privateinternetaccess.com/) | VPN services
+[Namecheap](https://www.namecheap.com/), [Porkbun](https://porkbun.com/) | Domain name registration
+[Stampnik](https://stampnik.com) | Discounted USPS Priority, Express, First-Class mail postage
+
+There are also [lots of charities](https://www.reddit.com/r/changetip/wiki/suggestions) which accept bitcoin donations.
+
+## Merchant Resources
+
+There are several benefits to accepting bitcoin as a payment option if you are a merchant;
+
+* 1-3% savings over credit cards or PayPal.
+* No chargebacks (final settlement in 10 minutes as opposed to 3+ months).
+* Accept business from a global customer base.
+* Convert 100% of the sale to the currency of your choice for deposit to your account, or choose to keep a percentage of the sale in bitcoin if you wish to begin accumulating it.  
+
+If you are interested in accepting bitcoin as a payment method, there are several options available;
+
+* [BTCPay Server](https://btcpayserver.org/)
+* [Zaprite](https://zaprite.com/product)
+* [Square cash](https://cash.me/)
+* [Stripe](https://stripe.com/bitcoin)
+* [Wyre](https://www.sendwyre.com/business/)
+* [Blockonomics](https://www.blockonomics.co/merchants#) (direct to your wallet)
+* [CoinCorner Checkout](https://www.coincorner.com/checkout)
+
+## Can I mine bitcoin?
+
+Mining bitcoin can be a fun learning experience, but be aware that you will most likely operate at a loss.  Newcomers are often advised to stay away from mining unless they are only interested in it as a hobby similar to [folding at home](https://foldingathome.org/?lng=en).  If you want to learn more about mining you can read the [mining FAQ](https://en.bitcoin.it/wiki/Faq#Mining). Still have mining questions?  The crew at /r/BitcoinMining would be happy to help you out. 
+
+If you want to contribute to the Bitcoin network by hosting the blockchain and propagating transactions there are many [great resources](https://raspibolt.org/) you can use to [run a full node](https://river.com/learn/how-to-run-a-bitcoin-node/).  You can view the global distribution of reachable Bitcoin nodes on [this webpage.](https://bitnodes.io/nodes/all/#global-bitcoin-nodes)
+
+## Earning bitcoin
+
+Just like any other form of money, you can also earn bitcoin by being paid to do a job.
+
+Site | Description
+---|---
+[WorkingForBitcoins](https://workingforbitcoins.com), [Bitwage](https://www.bitwage.com/for-individuals/), [Coinality](https://coinality.com/), [Bitgigs](http://bitgigs.com/), [/r/Jobs4Bitcoins](http://www.reddit.com/r/Jobs4Bitcoins), [BitforTip](http://www.bitfortip.com/), and [Rein Project](http://reinproject.org/) | Freelancing
+[Lolli](https://www.lolli.com/) | Earn bitcoin when you shop online!
+[Bitify](https://bitify.com/), and [/r/Bitmarket](http://www.reddit.com/r/BitMarket) | Marketplaces
+[A-ads](https://a-ads.com), [Coinzilla.io](https://coinzilla.io/) | Advertising
+
+You can also earn bitcoin by participating as a market maker on [JoinMarket](https://github.com/chris-belcher/joinmarket) by allowing users to perform CoinJoin transactions with your bitcoin for a small fee (requires you to already have some bitcoin).
+
+## Bitcoin-Related Projects
+
+The following is a **short** list of ongoing projects that might be worth taking a look at if you are interested in current development in the Bitcoin space.  
+
+Project | Description
+---|---
+[Lightning Network](https://lightning.engineering/index.html)| Second layer scaling
+[Liquid](https://blockstream.com/liquid/) and [Rootstock](https://www.rsk.co/) | Sidechains
+[Hivemind](http://bitcoinhivemind.com) | Prediction markets
+[Tierion](https://tierion.com) and [Factom](http://factom.org/) | Records & Titles on the blockchain
+[BitMarkets](https://voluntary.net/bitmarkets/), and [DropZone](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone) and [Beaver](https://eprint.iacr.org/2016/464.pdf) | Decentralized markets
+[JoinMarket](https://github.com/chris-belcher/joinmarket), [JAM app](https://www.youtube.com/watch?v=FbyjG2upGO8) and [Wasabi](https://docs.wasabiwallet.io/) | CoinJoin implementation
+[Peer-to-Peer Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges/) | Peer-to-peer exchanges
+[Keybase](https://keybase.io/) | Identity & Reputation management
+[Abra](https://www.goabra.com/) | Global P2P money transmitter network
+[Bitcore](http://bitcore.io/) | Open source Bitcoin javascript library
+[Bitcoin Knots](https://bitcoinknots.org/) | A Bitcoin Node (Within Consensus Fork of Bitcoin Core)
+
+## Bitcoin Units
+
+One bitcoin is worth quite a lot (thousands of £/$/€), so people often deal in smaller units. The most common subunits are listed below:
+
+Unit | Symbol | Value | Info
+---|:---:|---|---
+bitcoin | BTC | 1 bitcoin | one bitcoin is equal to 100 million satoshis
+millibitcoin | mBTC | 1,000 per bitcoin | used as default unit in Electrum wallet
+bit | μBTC | 1,000,000 per bitcoin | colloquial ""slang"" term for microbitcoin
+satoshi | sat | 100,000,000 per bitcoin | smallest unit in bitcoin, named after the inventor
+
+For example, assuming an arbitrary exchange rate of $10,000 for one bitcoin, a $10 meal would equal:
+
+* 0.001 BTC
+* 1 mBTC
+* 1,000 bits
+* 100,000 sats
+
+For more information check out the [bitcoin units wiki](https://www.reddit.com/r/BitcoinWiki/wiki/bitcoin_units).
+
+---
+
+**Still have questions?**  Feel free to ask in the comments below or stick around for our weekly [Mentor Monday](https://www.reddit.com/r/Bitcoin/search/?q=title%3A%22mentor+monday%22&sort=new&restrict_sr=on&t=all) thread. If you decide to post a question in /r/Bitcoin, please use the search bar to see if it has been answered before, and remember to follow the community rules outlined on the sidebar to receive a better response.  The mods are busy helping manage our community, so please do not message them unless you notice problems with the functionality of the subreddit.
+
+**Note:** This is a community created FAQ. If you notice anything missing from the FAQ or that requires clarification, you can [edit it here](https://www.reddit.com/r/BitcoinWiki/wiki/rbitcoin_sticky) and it will be included in the next revision pending approval.  
+
+**Welcome to the Bitcoin community and the new decentralized economy!**
+
+Please note that this thread will be moderated and non-constructive comments will be removed.",BitcoinFan7,1725325533.0,130,Bitcoin
+"Daily Discussion, February 11, 2025","Please utilize this sticky thread for all general **Bitcoin** discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you!
+
+If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow.
+
+Please check the [previous discussion thread](https://www.reddit.com/r/Bitcoin/comments/1im0gfk/mentor_monday_february_10_2025_ask_all_your/) for unanswered questions.",rBitcoinMod,1739254178.0,18,Bitcoin
+"And so it begins, the penny is out. Nickel is next. Soon the dollar itself! Bitcoin will save us",,KillerArretado,1739288013.0,592,Bitcoin
+Are Bitcoin maximalists being fooled?,,TLOBTC,1739296217.0,305,Bitcoin
+JUST IN: 🇯🇵 Japanese gaming company Gumi announces purchase of 1 billion yen (about 6.6 million US dollars) in Bitcoin,,BitCypher84,1739273102.0,694,Bitcoin
+Bitcoin 🚀,,gennyrick01,1739263750.0,704,Bitcoin
+Bitcoin mined vs ETF purchases,,kingofsats,1739290390.0,116,Bitcoin
+🚨 Want to understand why more and more Europeans are embracing Bitcoin?,,BitCypher84,1739279796.0,156,Bitcoin
+Buy BTC and HOLD!,This is why my wallet is only BTC since couple of years…,petragta,1739292942.0,72,Bitcoin
+A Very Powerful Meme about Bitcoin ❤️,"Bitcoin, like life, is finite—each moment, like each block, unrepeatable. Its value lies in scarcity; its lesson, to cherish time. What we choose to hold defines us.",HelpfulAd9034,1739297609.0,44,Bitcoin
+Economists who don’t understand Bitcoin.,,TLOBTC,1739295867.0,44,Bitcoin
+The Perfect Smell for Guests in your House after years of hearing you talked to them about Bitcoin 😝,,HelpfulAd9034,1739246901.0,479,Bitcoin
+KULR acquires another 100 bitcoin for $10 million as its total holdings reach 610 BTC,,Funnyurolith61,1739284783.0,57,Bitcoin
+University of Austin Launches $5 Million Dedicated Bitcoin Fund,,No-Comparison-9307,1739283332.0,42,Bitcoin
+Should I Sell my BTC? A Pie Chart Simplified,,HelpfulAd9034,1739281310.0,37,Bitcoin
+So is bitcoin at 90-100k considered a dip?,"Is bitcoin at 95k atm considered a dip? I bought .1 of it and have another 50k to play with to potentially get .5 more but my best friend keeps telling me to relax and wait for it to hit 70-80. I’m a newb, not trying to make a mistake that will cost me my future. (29 male, Single, no kids, no wife, no family, renting apartment) thank you in advance for any insight 🙏",007Russian,1739231874.0,333,Bitcoin
+Bitcoin vs Nasdaq,,RadarAA,1739250741.0,102,Bitcoin
+HODLBOY #003,"Made this for my beginner Bitcoin friends…
+I’ve seen a lot of posts regarding keeping Bitcoin on exchanges this week. Hope this helps! ",21Moto,1739241465.0,117,Bitcoin
+Bitcoin good fiat bad...but can't convince my friends,I am not sure mining was enough to convince them,TheDarkVoice2013,1739271415.0,25,Bitcoin
+We are at a point where we don’t know what will happen with Bitcoin.,,KenyaMatto_,1739200240.0,853,Bitcoin
+BTC on exchanges hits new low,"Hey, can someone maybe explain this. How does the amount of BTC on the exchanges influence the price? As of now we keep putting in new lows every week. Yet the price does not directly correspont to the lows. How does this work? Did the short flow increase or what could be other factors?",Capital_Prune_9127,1739224691.0,210,Bitcoin
+Just started on Coinbase today any advice for beginners?,"Title, freshly new to cryptocurrency",Cold_Statistician229,1739289439.0,6,Bitcoin
+Why Real Estate Investors Are Turning to Bitcoin,,JayW132,1739298288.0,4,Bitcoin
+I'm starting to become a BTC maximalist.,I don't see any alt that will leapfrog bitcoin. Holy damn. Of all my portfolio is down. Except BTC. I'm in profit as hell in BTC,Ikki_The_Phoenix,1739227577.0,142,Bitcoin
+"an extraction from ""the Bitcoin standard""","
+Apparently hackers could have had a chance to compromise the network in the early days, but that's unlikely to happens nowadays.
+
+Do you think investors value this aspect of BTC when they invest, or it is an intrinsic value often ignored?",RakitiRakiti89,1739278895.0,10,Bitcoin
+Never store BTC on exchanges,https://cointelegraph.com/news/2-5-m-bitcoin-left-crypto-exchanges-btc-supply-shock,K42st,1739291465.0,4,Bitcoin
+NEW: Florida Senator Joe Gruters introduces bill to invest in Bitcoin 🇺🇸,,BitCypher84,1739202480.0,287,Bitcoin
+What would the process look like for full US/World adoption to bitcoin standard?,"Is this the end game? If so, how would this happen in an ethical moral way? My concern is that almost all bitcoin is owned by an extremely small number of people. Based on the numbers I’m seeing, roughly 100 million addresses own about 90% of bitcoin. I’m sure this is less than 100 million people since many hold multiple address. This is less than 1% of the population. The numbers are more extreme as you go down. About 15k addresses own 60% of bitcoin which is 0.0002% of world population. If we transition to full bitcoin standard will there be an elite ruling class? The only ethical way I can think of is if everyone’s wealth is converted to bitcoin in a weighted fashion so people across the world maintain their current wealth. Am I missing something here?",robbybobby89,1739289541.0,4,Bitcoin
+How should i start buying?,"I want to start buying bitcoin, should i start buying like with 20 dollars every week or make a ""big start"" and at first buy with like 200-400 dollars and then continue with the 20 dollaars a week system?
+
+Does it affect the results if i put in 20 dollars a week VS 80 $ every month when my paycheck comes in? I think it would be easier for me to invest more at once than a little at a time. ",minibanana563,1739256490.0,17,Bitcoin
+Bitcoin & Dalai Lama,,Mean_Match_3816,1739250844.0,20,Bitcoin
+Some interesting data on Bitcoin Ownership,"https://preview.redd.it/eai83ed3nhie1.jpg?width=1200&format=pjpg&auto=webp&s=edd6d6f2782c69c1c8e21a6affa72892eda431fc
+
+",Siddy676,1739270163.0,9,Bitcoin
+NEW: 🇯🇵 Japanese Financial Services Agency is looking to lift the ban on Bitcoin ETFs,,BitCypher84,1739185216.0,519,Bitcoin
+Just How Secure Exactly?,"Bitcoin's network hashrate is reaching new ATHs. Breaking ***1 Zettahash per second*** has become so commonplace that it can escape our minds on just how insane that number truly is.
+
+1 Zettahash, 1000 Million Terahashes, **1,000,000,000,000,000,000,000 (10\^****^(21)****) hashes** is a number so unfathomable that we can take the security of Bitcoin's blockchain for granted.
+
+Earth has approximately **10\^18** individual grains of sand across all of it's beaches and oceans.
+
+>**Every single second, the amount of mining calculations collectively done by the network outnumbers the number of grains of sand on earth by a factor of one thousand.**
+
+But it is so much greater than that. This is just the amount of hashes that happens per second. Let's extrapolate a little further.
+
+If each block requires approximately 10 minutes of compute to find a solution, that means it takes approximately 600 seconds of this network hashrate to find a solution. That's over **600,000,000,000,000,000,000,000** hashes to find one single solution, or **6\*10\^23** **hashes.**
+
+How big is this number? Well the number of stars in the entire observable universe is on the order of **7\*10\^22** **stars.**
+
+>**Every single block added to the blockchain is protected by more individual calculations than the number of stars in the entire known universe by a factor of ten.**
+
+Ok, lets do the hail Mary. How many hashes have ever been calculated for the Bitcoin network? Well using [historical Bitcoin hashrate charts](https://www.blockchain.com/explorer/charts/hash-rate) and a little bit of calculus, it's easy to get a quick estimate!
+
+As of February 2025, **5.45\*10\^28** **hashes have been approximately computed by miners since the dawn of Bitcoin.**
+
+That's 54.5 Billion Exahashes, 54.5 Million Zettahash, 54,500 Yottahash, or **54.5** [**Ronnahash**](https://en.wikipedia.org/wiki/Unit_prefix)**.**
+
+This is approximately the same amount as the observable universe is wide. ***in centimeters*****.**
+
+Here's to the next ZH/s. Cheers",8A8,1739223321.0,54,Bitcoin
+Is your Bitcoin safe?,,TLOBTC,1739197696.0,183,Bitcoin
+Armory wallet not syncinf,"Bitcoin armory wallet stuck on 'syncing transaction history' and offline 
+Bitcoin core blockchain downloaded successfully (not pruned) 
+What do I do 
+It's not even moving along the loading bar ",Maleficent-Emu3132,1739297396.0,1,Bitcoin
+Why our money is crippling us (w/ Adam O’Brien of Bitcoin Well and Get Based),"
+Adam O’Brien is CEO  of Bitcoin Well and content creator with Get Based. He has been around since 2013 and is an absolute wealth of knowledge. It's clear he loves Bitcoin and he's dedicating all his time to making content and building products that benefit Bitcoiners.
+
+Conversation includes:  
+
+-Adam's favorite thing about Bitcoin 
+-Why people struggle to understand bitcoin 
+-Why everyone is broke and has no hope 
+-Why centralization is terrifying 
+-Not your keys, not your coins 
+-Improving the messaging of bitcoin 
+-How to answer ""What is Bitcoin?"" 
+-Bitcoin is for everyone 
+-Bitcoin adoption as a medium of exchange 
+-Bitcoin not a tech company, it's more like the internet itself 
+-Centralization risk in bitcoin 
+& tons more
+
+Hope you’ll check it out and leave a like and comment if you have feedback as I try to grow as a small channel. Thx! ",thesatdaddy,1739296930.0,1,Bitcoin
+"What does ""died in committee"" mean in relation to the current BITCOIN Act?",,Expensive_Bank_1825,1739263751.0,8,Bitcoin
+Their Debt Is Your Greatest Asset,"Their debt is *your* problem until you OWN Bitcoin, and the moment you OWN Bitcoin *their debt is YOUR greatest asset.* 
+
+
+",xtexm,1739201707.0,101,Bitcoin
+Bitcoiners are the most prepared individualists for the potential economic collapse,"*I made this post in r/singularity I think it is relevant here too.
+
+**Jobs, Automation and Debt**
+
+The argument is simple, the vast majority of the work force in the knowledge economy are in some kind of debt, student debt, mortgage, credit card debt and the list goes on. With technological exponential growth the majority of knowledge workers are about to lose their livelihoods.
+
+The effect is probably going to be greater than what we experienced in 2008. It will be the great economic depression of this century. People can't repay the debts, banks collapse, and with that all the economy. The question is where is the line, 10% unemployment of knowledge workers, 15%, 20%?
+
+With the collapse of the banks, as was in 2008, bailouts once again will be approved. By bailouts we mean printing fiat money out of thin air and giving it away, which eventually leads to hyperinflation.
+
+So, mass layoffs are about to happen in in the next few years and with that we can logically expect collapse of the banks and hyperinflation. Which means collapse of the dollar/euro.
+
+This is the transition period, and it is going to be hard. I really much hope I am wrong, but the logic says otherwise.",agihypothetical,1739277744.0,2,Bitcoin
+How Bitcoin mining works,,Capable-Climate-6678,1739109717.0,10636,Bitcoin
+Working in. Bitcoin,"I lost my job a few months ago at Amazon. I was there a couple years, got a CDL while I was there thru career choice program. Long story short is now I'm outta work. I want so badly to work on or in the bitcoin space. All I do is read and listen to podcasts on bitcoin. I'm very educated on the subject. I been deep down the rabbit hole since 2017. Austrian economics, sound money advocate. The whole 9. The problem is I'm not a Developer.  So there's that. I know I'd be so productive and happy working in the bitcoin space. But how do I get there. I feel like Dorothy in Oz..",MeetingBrilliant,1739286633.0,0,Bitcoin
+I hate the banking system,"I've saved up some money in a HYSA, the interest rate of the Citi Accelerated Savings has currently dropped below what the money market is paying. So i went to move the money to Fidelity, and you can only move ""X"" amount per day from Citi...
+And now I'm on day 3 of waiting for my ""daily limit"".. (I haven't transferred anything in 3 days) to reset, so i don't know how i can be over my daily limit because i haven't transferred anything in 3 days!! 
+
+And even when transferring into Fidelity, i can't do it at once.. what the hell?! Where is my money? I hate zero reserve banking. I wouldn't have this issue with BTC it seems, I've transferred larger amounts without delays in the past.  Sorry just venting, it's my money and i want it now! ",ekfah,1739220220.0,28,Bitcoin
+Are Bitcoin loans a sign crypto has gone mainstream? | The Business | ABC News,,ShadowStacker33,1739255851.0,3,Bitcoin
+How does selling affect your average cost?,"So if I sell let’s say 10% of my Bitcoin at 100k and my average cost is 80k, how will this affect my average cost?",imJustTrynnaMakeIT,1739266885.0,0,Bitcoin
+Sometimes Compromise is Necessary RE: Bitcoin,"I've attained a .2 btc stack in the last four years, in dribs and drabs.  I know it's not much, but I'm proud of it.  But I have three kids and want each one to have .2 btc each.  So I need another .4 before it skyrockets.
+
+The wife has been with me on my stacking thus far.  Not really into it but letting me play since it's my money and I support the family well.  But... when I told her I wanted to take out a 40K loan to get the other .4, she balked.  No way, she said.  I'm crazy, she said.
+
+So I told her, then if you'll let me take out 50K so I can get up to .7, then when it hits 500K I'll sell off a .16 to get all our money back and pay off the loan.
+
+Leaving my kids with .54 (.18 apiece instead of .2).
+
+Yeah I wanted them each to have a .2, but compromise is important in a marriage.
+
+SHE SAID YES.  She still rolled her eyes but she said yes.  That woman is a Godsend.
+
+COMPROMISE FOLKS.
+
+p.s.  If it ever hits 500K I will try to get her to go along with not paying off the loan with it.  I think once she sees it go from 100K to 500K she'll be onboard with letting it RIIIIIDE.",afscam,1739292823.0,0,Bitcoin
+Your Daily Bitcoin Breakdown newsletter is now live. Check out today’s Top Stories and a sneak peek at the latest Quick Bits snippets. Full issue link is in the comments.,,GeeWow,1739206958.0,35,Bitcoin
+Can I link my Fold bank account to my River account?,"Been trying to figure this out for a while and I feel like there’s no possible way to do this but asking Reddit was my last resort. I just hate having to use a separate bank account just for River. I just find it so redundant like why can’t I just use my Fold card for everything bro 😭
+
+I was trying to connect my fold account through the Plaid third party thingy that River goes through but Sutton Bank doesn’t support it or something…
+
+Please someone help! ",mattypua,1739262043.0,3,Bitcoin
+SEC False ETF Approval,"Facing up to five years and forfeiting $50,000 in BTC.",This-Philosophy-2580,1739230641.0,9,Bitcoin
+"Bitcoin usually trails gold by a few months, but the election accelerated its rally—watch gold and wait for Bitcoin to stabilize",,AlonShvarts,1739198172.0,38,Bitcoin
+The Evolution of Bitcoin Skepticism,,Firm_Impress9337,1739147132.0,464,Bitcoin
+Help me understand,"I'm in the process of DOYR and i'm trying to really understand from a technical POV the technology. I have a decent knowledge and i have an engineering degree that allows me to be comfortable with the Maths behind btc. After browsing through many forums i can't wrap my head around the collision problem:
+I'm trying to understand how one could ""steal"" bitcoin from an unknown wallet.
+Here is what i understand:
+
+-There are 2e256 private keys
+
+-There are 2e160 addresses associated (160bit hash result) Therefore there are 2e96 private keys for each public address
+1rst problem: if i send btc to one of these addresses: will 2^96 wallets recieve it?
+
+2nd problem: why do some people claim that you only need to bruteforce 2e160 adresses to succesfully ""steal"" btc as finding an adress is useless
+My understanding is that you would have to brute force 2e256 keys to find one (actually less bcs of birthday paradox) because the only way of being able to manipulate btc is through the private key.
+
+Thanks in advance for your answears.",chadago,1739265961.0,0,Bitcoin
+New guy struggles...,"Roast me if you want but I have a real question and want some opinions. I don't know anyone personally that I trust to shot me straight. 
+So I am a new believer in bitcoin and have a reasonably large stash of trash, Oops I mean cash. (Reasonably large to me) I want to purchase some bitcoin and move it to cold storage and sit on it for a few years. 
+What I'm not sure about is all the details and which route I should take and why one way is better than another. Which exchange should I buy from, which wallet should I get, etc. 
+Personal stories/struggles/mistakes are appreciated and I will look into all suggestions. Thanks",Background-Seat8789,1739263877.0,1,Bitcoin
+All you need is Bitcoin.,,TLOBTC,1739117313.0,1861,Bitcoin
+Is anyone actually using Mark Moss’ bitcoin retirement strategy?,"I watched his video then started looking into unchained. It’s tempting but also…aren’t you just taking out more and more debt every year until you finally sell some BTC to pay off wha you owe?
+
+Thoughts?",chinkydiva,1739235799.0,3,Bitcoin
+Is the Strategy₿ hinting at Strategy₿ank?,The end game is be your own bank?  They have bonds.  They issue equity.  Neither is tied directly to the Bitcoin.  What is the end game for Strategy₿?,Socialists-Suck,1739223486.0,4,Bitcoin
+Will this make BTC go up?,,Avocado_Ash,1739140922.0,342,Bitcoin
+Still feel awkward to display affinity towards bitcoin in public,"
+So i’ve been in the crypto / bitcoin space since 2017. Most of my friends know i like and follow bitcoin. I don’t mind discussing it in personal circles and acquaintances. 
+
+However, i recently bought a copy of ‘The Bitcoin Standard’ and started reading it but i am uncomfortable reading it with its cover on display on public transport. 
+
+I find it weird that after all these years, and so much mainstream acceptance for bitcoin, i still find it awkward to display my affinity to bitcoin coin in public. I feel people will judge me - for something not sure what.
+
+Is it just me or is it true for most of you folks. When will this change.",Slapthatcash,1739177370.0,52,Bitcoin
+How do I transfer coins from a single address in an offline descriptor wallet?,"I'm using Bitcoin Core. I have coins evenly split among 20 different addresses in an offline descriptor wallet. In the past when I wanted to use some coins I'd simply export the private key tied to one of the addresses in the offline wallet, then import it into an online wallet so I'm only ever exposing a small amount at once. However, for security reasons Bitcoin Core moved to descriptors, which no longer allow this.
+
+Is there a way to accomplish this same functionality using a descriptor wallet? In other words, move the coins associated with a single address in an offline descriptor wallet to an online wallet, similar to exporting a private key tied to a particular address?",cprodxz,1739240970.0,4,Bitcoin
+How much bitcoin is lost per day in your opinion?,"How many bitcoin do you think is lost forever per day ? I mean sent to non existing/wrong adress, lost keys, etc 
+
+I think its around 5-10 :D ",Hajika12,1739229140.0,3,Bitcoin
+New Breez and 1A1z Report Reveals Accelerating Global Bitcoin Payment Adoption,,No-Comparison-9307,1739196962.0,13,Bitcoin
+"If Bitcoin fails, all my life and effort will be destroyed","Sometimes I pause and think about this fact, doing ALL IN on Bitcoin means no matter how much work you do if Bitcoin wins you end up with and abudandt and free life, but the same thing happens to the opposite site, if Bitcoin fails it doesnt matter how much work I do, my life will be miserable
+
+  
+My conviction in Bitcoin is close to 100% but sometimes I wonder if Im making a mistake and I will end up poor as f",Longjumping-Baker-25,1739120310.0,758,Bitcoin
+Isn't bitcoin deteriorating wealth gap?,"Big fan of bitcoin, but i thought it is deteriorating wealth gap with small number of people having large portion of bitcoin.
+
+
+
+",AwareZone5664,1739259631.0,0,Bitcoin
+Where can i buy and send btc in the same day without waiting in Canada?,Would love an answer to this. Travel Rules are killing me here.,Technical-Titlez,1739232399.0,1,Bitcoin
+How much bitcoin do you need to be a millionaire in 20 years?,Was wondering how much bitcoin do you guys think you need to accumulate to have over 2 million in about 20 years realistically.,jn92082,1739142273.0,197,Bitcoin
+I have some $$ in etfs and I’m wondering if I should pull it out and put it until bitcoin?,"I’m new to this all and have sub 5k boxed between both, just wondering if I should ditch the etf and sticks and just stick with btc? Or should I keep both for diversity? ",Jakfrost6,1739182178.0,23,Bitcoin
+"Retiring with BTC by 2040 - what does retirement look like, we all talk about retiring with BTC","So to me, retiring does not mean lambos, big pimpin and hoes in different areas codes.
+
+For everyone lucky enough to accumulate 0.1 BTC retirement in 15 years could mean early mortgage repayment, debt free and maybe £2500 a month to live off for 15-25 years. Sure, not the Hollywood lifestyle, but if you can save yourself 10 years working for the man and have a nice steady income from BTC from the age of 50 that’s a win! 
+
+All we can do is try accumulate as much BTC as possible without sacrificing too much of our current lives. 
+
+All the wholecoiners, perhaps you can give us a glimpse of what early retirement looks like perhaps in 5 years :) ",Jayrovers86,1739270946.0,0,Bitcoin
+Market Manipulation.,"I know enough about bitcoin to get myself in trouble but admit I’m not very well educated on all the ends and outs. My only concerns with bitcoin are large whales. I believe the top 1% of holders have 90% of all bitcoin, similar to most flawed economies; how is this not considered a huge conflict for the overall value? Just like the stock market they hold enough volume to manipulate the overall price of bc, and although I’m certain they would never offload I’m positive they have agreements between each other to buy/sell at specific price points to inflate the overall value. Bitcoin is not being used by the masses and the real world value is nothing near the price. It’s a digital gold that has no value to most establishments or businesses.",lucky_hooker_,1739278158.0,0,Bitcoin
+What are your favorite books to Orange-Pill your loved ones? I recently published Unstable Innovation to help with the Bitcoin journey.,,nelsonjav,1739207570.0,4,Bitcoin
+Securing your Bitcoin,"Do we have any threads of how to secure your Bitcoin? 
+
+I’ve heard the name Trezor a lot and Coldcard but I need to learn from step 1 on how to secure my Bitcoin and make sure nobody can steal it.
+Thanks in advance ",Plastic-Ad2126,1739233195.0,1,Bitcoin
+Bitcoin vibes.,,TLOBTC,1739107328.0,593,Bitcoin
+Can blockchain technology be used in voting?,"Is blockchain technology able to be implemented when voting for presidential candidates?
+
+Like if you had private keys only you knew, wouldn’t that be a great way to verify identities and make sure people aren’t “double spending” their votes?",FanOfSilence,1739231256.0,2,Bitcoin
+"Daily Discussion, February 10, 2025","Please utilize this sticky thread for all general **Bitcoin** discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you!
+
+If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow.
+
+Please check the [previous discussion thread](https://www.reddit.com/r/Bitcoin/comments/1il86s9/daily_discussion_february_09_2025/) for unanswered questions.",rBitcoinMod,1739167359.0,27,Bitcoin
