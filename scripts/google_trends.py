@@ -4,22 +4,20 @@ import pandas as pd  # For saving data as CSV
 from pytrends.request import TrendReq  # Google Trends API
 
 # Define constants
-# KEYWORDS = ["Bitcoin", "Ethereum", "Crypto regulation"]
-KEYWORDS = ["Bitcoin"]
+KEYWORDS = ["Bitcoin", "Ethereum", "Crypto regulation"]
+# KEYWORDS = ["Bitcoin"]
 TIMEFRAME = "today 12-m"  # Last 12 months
 REGION = "US"  # Set to "US" for region-based analysis, or leave blank for worldwide
 RAW_OUTPUT_FILE = "./datasets/raw/pytrends.csv"
 CLEAN_OUTPUT_FILE = "./datasets/clean/pytrends.csv"
 
 
-### **Part 1: Fetch Data from Google Trends (Extract)**
 def fetch_google_trends(keywords, timeframe, region):
     """Fetches interest data from Google Trends for given keywords."""
     try:
         print(f"🔄 Fetching Google Trends data for {keywords}...")
         pytrends = TrendReq()
 
-        # Introduce a delay between requests to prevent rate limits
         time.sleep(20)
 
         pytrends.build_payload(kw_list=keywords, timeframe=timeframe, geo=region)
@@ -29,7 +27,6 @@ def fetch_google_trends(keywords, timeframe, region):
             print("⚠️ No data found for the given keywords.")
             return None
 
-        # Reshape data to include 'Keyword', 'Date', and 'Interest Score'
         data.reset_index(inplace=True)
         data = data.melt(
             id_vars=["date"], var_name="Keyword", value_name="Interest Score"
@@ -44,34 +41,29 @@ def fetch_google_trends(keywords, timeframe, region):
         return None
 
 
-### **Part 2: Save Data to CSV (Load)**
 def save_to_csv(data, filename):
     """Saves extracted Google Trends data to a CSV file."""
     if data is None or data.empty:
         print("⚠️ No data to save.")
         return
 
-    os.makedirs(os.path.dirname(filename), exist_ok=True)  # Ensure directory exists
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
     data.to_csv(filename, index=False)
 
     print(f"✅ Data successfully saved to {filename}")
 
 
-### **Part 3: Clean Data (Transform)**
 def clean_data(input_file, output_file):
     """Cleans the Google Trends data: removes negative values and missing scores."""
     try:
         data = pd.read_csv(input_file)
 
-        # Ensure valid data
         if data.empty:
             print("⚠️ No data available to clean.")
             return
 
-        # Remove negative interest scores (if any)
         data = data[data["Interest Score"] >= 0]
 
-        # Drop rows with missing values
         data.dropna(inplace=True)
 
         save_to_csv(data, output_file)
@@ -81,12 +73,10 @@ def clean_data(input_file, output_file):
         print(f"❌ Error cleaning data: {e}")
 
 
-### **Part 4: Summarize Data (Aggregation)**
 def summarize_data(filename):
     try:
         data = pd.read_csv(filename)
 
-        # Ensure valid data
         if data.empty:
             print("⚠️ No data available for summary.")
             return
