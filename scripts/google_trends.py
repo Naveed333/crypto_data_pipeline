@@ -1,24 +1,25 @@
 import time
-from pytrends.request import TrendReq  # type: ignore
-import pandas as pd  # type: ignore
 import os
+import pandas as pd  # For saving data as CSV
+from pytrends.request import TrendReq  # Google Trends API
 
-# Define search parameters
-# KEYWORDS = ["Bitcoin price", "Ethereum", "Crypto regulation"]
-# KEYWORDS = ["Bitcoin price", "Crypto regulation"]
-KEYWORDS = ["Bitcoin price"]
-TIMEFRAME = "today 12-m"
-REGION = "US"
-OUTPUT_DIR = "./datasets/raw"
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "google_trends.csv")
+# Define constants
+# KEYWORDS = ["Bitcoin", "Ethereum", "Crypto regulation"]
+KEYWORDS = ["Bitcoin"]
+TIMEFRAME = "today 12-m"  # Last 12 months
+REGION = "US"  # Set to "US" for region-based analysis, or leave blank for worldwide
+RAW_OUTPUT_FILE = "./datasets/raw/pytrends.csv"
+CLEAN_OUTPUT_FILE = "./datasets/clean/pytrends.csv"
 
 
-def fetch_google_trends(keywords, timeframe, region, output_path):
+### **Part 1: Fetch Data from Google Trends (Extract)**
+def fetch_google_trends(keywords, timeframe, region):
+    """Fetches interest data from Google Trends for given keywords."""
     try:
-        print("🔄 Fetching Google Trends data...")
+        print(f"🔄 Fetching Google Trends data for {keywords}...")
         pytrends = TrendReq()
 
-        # Add a delay between requests to prevent getting blocked
+        # Introduce a delay between requests to prevent rate limits
         time.sleep(20)
 
         pytrends.build_payload(kw_list=keywords, timeframe=timeframe, geo=region)
@@ -26,23 +27,87 @@ def fetch_google_trends(keywords, timeframe, region, output_path):
 
         if data.empty:
             print("⚠️ No data found for the given keywords.")
-            return
+            return None
 
-        # Reshape data
+        # Reshape data to include 'Keyword', 'Date', and 'Interest Score'
         data.reset_index(inplace=True)
         data = data.melt(
             id_vars=["date"], var_name="Keyword", value_name="Interest Score"
         )
         data.rename(columns={"date": "Date"}, inplace=True)
 
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        data.to_csv(output_path, index=False)
-
-        print(f"✅ Google Trends data saved successfully at: {output_path}")
+        print(f"✅ Fetched {len(data)} records.")
+        return data
 
     except Exception as e:
         print(f"❌ Error: Failed to fetch data. Details: {e}")
+        return None
 
 
+### **Part 2: Save Data to CSV (Load)**
+def save_to_csv(data, filename):
+    """Saves extracted Google Trends data to a CSV file."""
+    if data is None or data.empty:
+        print("⚠️ No data to save.")
+        return
+
+    os.makedirs(os.path.dirname(filename), exist_ok=True)  # Ensure directory exists
+    data.to_csv(filename, index=False)
+
+    print(f"✅ Data successfully saved to {filename}")
+
+
+### **Part 3: Clean Data (Transform)**
+def clean_data(input_file, output_file):
+    """Cleans the Google Trends data: removes negative values and missing scores."""
+    try:
+        data = pd.read_csv(input_file)
+
+        # Ensure valid data
+        if data.empty:
+            print("⚠️ No data available to clean.")
+            return
+
+        # Remove negative interest scores (if any)
+        data = data[data["Interest Score"] >= 0]
+
+        # Drop rows with missing values
+        data.dropna(inplace=True)
+
+        save_to_csv(data, output_file)
+        print(f"✅ Cleaned data saved to {output_file}")
+
+    except Exception as e:
+        print(f"❌ Error cleaning data: {e}")
+
+
+### **Part 4: Summarize Data (Aggregation)**
+def summarize_data(filename):
+    try:
+        data = pd.read_csv(filename)
+
+        # Ensure valid data
+        if data.empty:
+            print("⚠️ No data available for summary.")
+            return
+
+        summary = (
+            data.groupby("Keyword")["Interest Score"]
+            .agg(["mean", "max", "min"])
+            .reset_index()
+        )
+        print("\n📊 Google Trends Data Summary 📊")
+        print(summary)
+
+    except Exception as e:
+        print(f"❌ Error summarizing data: {e}")
+
+
+### **Run the Pipeline**
 if __name__ == "__main__":
-    fetch_google_trends(KEYWORDS, TIMEFRAME, REGION, OUTPUT_FILE)
+    trends_data = fetch_google_trends(KEYWORDS, TIMEFRAME, REGION)
+
+    if trends_data is not None:
+        save_to_csv(trends_data, RAW_OUTPUT_FILE)
+        clean_data(RAW_OUTPUT_FILE, CLEAN_OUTPUT_FILE)
+        summarize_data(CLEAN_OUTPUT_FILE)
